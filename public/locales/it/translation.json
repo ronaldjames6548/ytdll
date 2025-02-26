@@ -1,50 +1,688 @@
+
 {
+	"site": {
+		"title": "Tiktokio - TikTok Downloader - Scarica video TikTok senza filigrana",
+		"description": "TikTokio - Downloader Tiktok per scaricare facilmente video Tiktok online senza filigrana, Miglior downloader video Tiktok per scaricare video da Tiktok, download gratuito di video Tiktok in Mp4.",
+		"alt": "Tiktokio - TikTok Downloader - Scarica video TikTok senza filigrana"
+
+	},
 	"hero": {
-		"title": "Sviluppo web potenziato!",
-		"subtitle": "Liberare il Potere del Web: Combina Astro, Tailwind CSS e Alpine.js per Semplificare il Tuo Processo di Sviluppo Web.",
-		"globe_title": "Crea Siti Web Sorprendenti ad Alte Prestazioni con Facilità e Velocità.",
-		"main_button_text": "Scarica su github",
-		"secondary_button_text": "Vai a versione animata"
+		"title": "TikTok Video Downloader",
+		"subtitle": "Scarica video TikTok in MP3/MP4 e senza filigrana",
+		"notify": "Utilizzando il nostro servizio accetti la nostra",
+		"downloader": "Downloader video",
+		"tiktokio": "TikTokio",
+		"tiktok": "TikTok",
+		"tos": "Termini di servizio",
+		"privacy": "Informativa sulla privacy",
+		"scan": "Scansionato da",
+		"norton": "Nortone",
+		"safe": "Web sicuro"
+
 	},
-	"hero_animated": {
-		"secondary_button_text": "Vai a versione base"
+
+	"hero_douyin": {
+		"tiktokio": "TikTokio",
+		"title": "Douyin Video Downloader",
+		"subtitle": "Scarica gratuitamente il video di Douyin (抖音, TikTok Cina) senza filigrana"
+
 	},
+
+	"hero_mp3": {
+		"tiktokio": "TikTokio",
+		"title": "Scarica TikTok MP3 online",
+		"subtitle": "TikTok MP3 Downloader, converti i tuoi video TikTok preferiti in MP3"
+
+	},
+
+	"hero_photo": {
+		"tiktokio": "TikTokio",
+		"title": "Scarica TikTok MP3 online",
+		"subtitle": "TikTok MP3 Downloader, scarica TikTok mp3 gratuitamente"
+
+	},
+
+	"hero_story": {
+		"tiktokio": "TikTokio",
+		"title": "TikTok Story Downloader",
+		"subtitle": "Scarica la video storia di Tiktok - Gratis - Senza filigrane"
+
+	},
+	"hero_ssstik": {
+		"tiktokio": "SssTiktok",
+		"title": "Tiktok Downloader",
+		"subtitle": "Scarica video TikTok senza filigrana"
+
+	},
+	
 	"header": {
-		"features": "Funzionalità",
-		"pricing": "Prezzi",
-		"blog": "Blog",
-		"contact": "Contatti",
-		"primary_button_text": "Scarica",
-		"secondary_button_text": "Login"
+		"title": "Tiktokio",
+		"tvd": "Tiktok Video Downloader",
+		"tmp3": "Scarica TikTok MP3",
+		"douyin": "Scarica il video di Douyin",
+		"story": "Scaricatore di storie di TikTok",
+		"photo": "TikTok Photo Downloader",
+		"ssstik": "SssTiktok",
+		"howto": "Come fare"
+		
 	},
+
+
+	"douyin_features": {
+		"title": "Tiktokyo per Douyin",
+		"subtitle": "Douyin downloader video online senza filigrana!",
+		"text1": "Per Douyin (TikTok cinese) SnapDouyin (noto anche come Tiktokio Douyin) è affidabile ",
+		"text1-1": "che ti consente di salvare video senza filigrane preservando la qualità del contenuto originale. La procedura di download è rapida e termina in pochi secondi. ",
+		"text1_link": "Douyin downloader video",
+		"text2": "È considerato il modo migliore per ottenere contenuti da Douyin utilizzando tiktokio.cam, un sito Web di terze parti. Lo scopo di Tiktokio Douyin è aiutarti a scaricare foto e video dal tuo account Douyin. Riaffermiamo il nostro diritto di negare il servizio a chiunque utilizzi il nostro strumento in modo non autorizzato o utilizzi i propri materiali senza autorizzazione. Si prega di leggere i nostri Termini di servizio nella sua interezza.",
+		
+		"copy": "Copia collegamento video",
+		"copy_text": "Trova il video Tiktok, quindi fai clic su 'Condividi' e seleziona 'Copia collegamento'",
+		"paste": "Incolla collegamento",
+		"paste_text": "Incolla il collegamento nel campo di input di Tiktokio e fai clic su 'Scarica'",
+		"save": "Salva video",
+		"save_text": "Seleziona il formato video che desideri scaricare",
+		"enjoy": "Aggiungi Titkio ai segnalibri",
+		"enjoy_text": "Premi semplicemente 'Ctrl + D' per aggiungere il nostro sito ai preferiti.",
+
+		"downloader": "Tiktokio Douyin Downloader - Scarica video da Douyin senza filigrana",
+		"downloader_text": "Come scaricare video di Douyin online? Usando Douyin Downloader, puoi scaricare video di Douyin in alta definizione (1080p, 2k e 4k) così come in risoluzione Full HD e 1080p. Scarica e archivia gratuitamente i video di Douyin nella migliore qualità sul tuo computer o telefono.",
+		"downloader_text1": "Utilizzando uno strumento chiamato Douyin Downloader di Tiktokio puoi ",
+		"downloader_text2": "Utilizzando uno strumento chiamato Douyin Downloader di Tiktokio puoi",
+		"downloader_link": "scarica video Douyin",
+		"downloader_text3": "gratuitamente e senza filigrana o marchio. Senza installare alcun software, salva e scarica i video Douyin sul tuo browser web.",
+		"downloader_text4": "Tutto il lavoro viene svolto sul nostro server; tutto ciò di cui hai bisogno è un collegamento video Douyin. supporta ogni sistema operativo e gadget, inclusi Windows, Linux, Mac OS, iPhone, Android e PC.",
+
+		"howto": "Come scaricare video Douyin senza filigrana con Tiktokio",
+		"howto_li1": "Apri l'app Douyin sul tuo telefono o apri il sito web Douyin.com con un browser.",
+		"howto_li2": "Su Douyin, trova il video che desideri scaricare. Premi il pulsante Condividi e seleziona Copia collegamento.",
+		"howto_li3": "Torna a Tiktokio.Cam, incolla il collegamento Douyin copiato nella casella di input e premi il pulsante Download.",
+		"howto_li4": "Attendi che il nostro server elabori e premi il pulsante Scarica foto o Scarica video per salvare il rispettivo file sul tuo dispositivo."
+		
+	},
+
+	"mp3_features": {
+		"title": "Tiktokio Scarica TikTok MP3",
+		"subtitle": "Downloader online Tiktok Mp3",
+		"sec_title": "Tiktokio - Tiktok Mp3",
+		"sec_title1": "TikTok MP3 Downloader - Strumento gratuito per scaricare mp3 da TikTok",
+		"sec_text1": "Puoi salvare e scaricare la musica di TikTok in formato mp3 con l'utility Tiktokio, TikTok MP3 Downloader. Tiktokio",
+		"paste_link": "(https://tiktokio.cam)",
+		"sec_text2": "supporta i download di mp3 di TikTok tramite browser web; non è necessario installare alcun software.",
+		
+
+		"text1": "Per Douyin (TikTok cinese) SnapDouyin (noto anche come Tiktokio Douyin) è affidabile ",
+		"text1-1": "che ti consente di salvare video senza filigrane preservando la qualità del contenuto originale. La procedura di download è rapida e termina in pochi secondi. ",
+		"text1_link": "Douyin downloader video",
+		"text2": "È considerato il modo migliore per ottenere contenuti da Douyin utilizzando tiktokio.cam, un sito Web di terze parti. Lo scopo di Tiktokio Douyin è aiutarti a scaricare foto e video dal tuo account Douyin. Riaffermiamo il nostro diritto di negare il servizio a chiunque utilizzi il nostro strumento in modo non autorizzato o utilizzi i propri materiali senza autorizzazione. Si prega di leggere i nostri Termini di servizio nella sua interezza.",
+		
+		"copy": "Copia collegamento video",
+		"copy_text": "Trova il video Tiktok con musica, quindi fai clic su 'Condividi' e seleziona 'Copia collegamento'",
+		"paste": "Incolla collegamento",
+		"paste_text": "Incolla il collegamento nel campo di input di Tiktokio e fai clic su 'Scarica'",
+		"save": "Salva Mp3",
+		"save_text": "Seleziona il formato Mp3 che desideri scaricare",
+		"enjoy": "Aggiungi Titkio ai segnalibri",
+		"enjoy_text": "Premi semplicemente 'Ctrl + D' per aggiungere il nostro sito ai preferiti.",
+
+		"downloader": "Tiktokio Tiktok Mp3 Downloader - Scarica TikTok MP3 online",
+		"downloader_text": "Come scaricare TikTok MP3 online? Utilizzando Tiktokio Mp3 Downloader, puoi scaricare musica Mp3 da Tiktok. Scarica e archivia musica Mp3 da Tiktok nella migliore qualità sul tuo computer o telefono gratuitamente.",
+		"downloader_text1": "Utilizzando uno strumento chiamato Douyin Downloader di Tiktokio puoi ",
+		"downloader_text2": "Utilizzando uno strumento chiamato Douyin Downloader di Tiktokio puoi",
+		"downloader_link": "scarica Tiktok Mp3",
+		"downloader_text3": "gratuitamente. Senza installare alcun software, salva e scarica la musica Tiktok Mp3 sul tuo browser web.",
+		"downloader_text4": "Tutto il lavoro viene svolto sul nostro server; tutto ciò di cui hai bisogno è un collegamento video Tiktok con musica. supporta ogni sistema operativo e gadget, inclusi Windows, Linux, Mac OS, iPhone, Android e PC.",
+
+		"howto": "Come scaricare Tiktok Mp3 con Tiktokio",
+		"howto_li1": "Apri l'app Tiktok sul tuo telefono o apri il sito web Tiktok.com con un browser.",
+		"howto_li2": "Su Tiktok, trova il video di cui vuoi scaricare la musica. Premi il pulsante Condividi e seleziona Copia collegamento.",
+		"howto_li3": "Torna a Tiktokio.Cam, incolla il collegamento Tiktok copiato nella casella di input e premi il pulsante Download.",
+		"howto_li4": "Attendi l'elaborazione da parte del nostro server e premi il pulsante Scarica Mp3 o Scarica Tiktok Mp3 per salvare il rispettivo file sul tuo dispositivo."
+		
+	},
+
+	"story_features": {
+		"title": "Scarica la storia di Tiktok",
+		"subtitle": "Titkio Online Tiktok Story Downloader",
+		"text1": "Per Tiktok Story, Titkio (noto anche come Tiktokio Story Downloader) è un'applicazione web affidabile",
+		"text1-1": "che ti consente di salvare Tiktok Sotry senza filigrane preservando la qualità del contenuto originale. La procedura di download è rapida e termina in pochi secondi. ",
+		"text1_link": "https://tiktokio.cam/tiktok-story-downloader",
+		"text2": "È considerato il modo migliore per ottenere contenuti da Tiktok utilizzando tiktokio.cam, un sito Web di terze parti. Lo scopo di Tiktokio Story Downloader è aiutarti a scaricare Tiktok Stories di qualsiasi account utente pubblico. Riaffermiamo il nostro diritto di negare il servizio a chiunque utilizzi il nostro strumento in modo non autorizzato o utilizzi i propri materiali senza autorizzazione. Si prega di leggere i nostri Termini di servizio nella sua interezza.",
+		
+		"copy": "Copia collegamento alla Storia",
+		"copy_text": "Trova la storia di Tiktok, quindi fai clic su 'Condividi' e seleziona 'Copia collegamento'",
+		"paste": "Incolla collegamento",
+		"paste_text": "Incolla il collegamento nel campo di input di Tiktokio e fai clic su 'Scarica'",
+		"save": "Salva storia",
+		"save_text": "Seleziona il formato della storia che desideri scaricare",
+		"enjoy": "Aggiungi Titkio ai segnalibri",
+		"enjoy_text": "Premi semplicemente 'Ctrl + D' per aggiungere il nostro sito ai preferiti.",
+
+		"downloader": "Tiktokio Story Downloader - Scarica storie da Tiktok senza filigrana",
+		"downloader_text": "Come scaricare i video di Tiktok Story online? Usando Tiktokio Story Downloader, puoi scaricare Story da Tiktok in alta definizione (1080p, 2k e 4k) così come in risoluzione Full HD e 1080p. Scarica e archivia gratuitamente i video di Tiktok Story nella migliore qualità sul tuo computer o telefono.",
+		"downloader_text1": "Utilizzando uno strumento chiamato Douyin Downloader di Tiktokio puoi ",
+		"downloader_text2": "Utilizzando uno strumento chiamato Douyin Downloader di Tiktokio puoi",
+		"downloader_link": "scarica il video Tiktok Story",
+		"downloader_text3": "gratuitamente e senza filigrana o marchio. Senza installare alcun software, salva e scarica la storia di Tiktok sul tuo browser web.",
+		"downloader_text4": "Tutto il lavoro viene svolto sul nostro server; tutto ciò di cui hai bisogno è un collegamento video a Tiktok Story. supporta ogni sistema operativo e gadget, inclusi Windows, Linux, Mac OS, iPhone, Android e PC.",
+
+		"howto": "Come scaricare video di Tiktok Story senza filigrana con Tiktokio",
+		"howto_li1": "Apri l'app Tiktok sul tuo telefono o apri il sito web Tiktok.com con un browser.",
+		"howto_li2": "Su Tiktok, trova il video che desideri scaricare. Premi il pulsante Condividi e seleziona Copia collegamento.",
+		"howto_li3": "Torna a Tiktokio.Cam, incolla il collegamento Tiktok copiato nella casella di input e premi il pulsante Download.",
+		"howto_li4": "Attendi che il nostro server elabori e premi il pulsante Scarica foto o Scarica video per salvare il rispettivo file sul tuo dispositivo."
+		
+	},
+
+	"ssstik_features": {
+		"learn_more": "Ulteriori informazioni",
+		"title": "Ssstik TikTok Downloader - Scarica video TikTok senza filigrana",
+		"titlepg": " - Downloader Tiktok per scaricare facilmente video Tiktok online senza filigrana, scaricare video da Tiktok, scaricare gratuitamente video Tiktok in Mp4. Il miglior strumento per scaricare video TikTok, scarica video TikTok senza soluzione di continuità e comodamente sul tuo smartphone gratuitamente.",
+                "description_title": "SssTik: TikTok Downloader senza filigrana",
+		"description": "Certo, è vero che oggigiorno la maggior parte delle persone desidera ",
+		"descriptions": "strumenti. Ecco perché tali strumenti vengono lanciati uno per uno. Ma la loro efficienza e i risultati non sono all'altezza. Alcuni forniscono una velocità di download media, altri lenti.",
+		"description1": "Tuttavia, per gli altri strumenti di download di TikTok, le persone devono pagare. Quindi, qui non ci sono cose così devastanti, perché il nostro team di sviluppatori SssTik non mette i nostri utenti nell'oblio. Abbiamo un nuovo downloader di TikTok gratuito e puoi scaricare i tuoi video preferiti da TikTok in formato HD ad alta velocità.",
+
+		"heading2": "SssTikTok: downloader video TikTok gratuito e versatile",
+		"heading2_des1": "SssTik è un downloader gratuito di Tiktok che aiuta a ",
+		"heading2_des1_1": "Il download di Ssstiktok ti consente di scaricare Tiktoko Video, convertire i video scaricati da TikTok nei formati MP3 e MP4 e ascoltarne la riproduzione offline.",
+		"heading2_des2": "Sentiti libero di utilizzare gratuitamente il nostro ssstiktok su più dispositivi come telefoni Android, PC, laptop, tablet e desktop. Quindi, inizia a scaricare e salvare i video TikTok desiderati e condividili con altre persone per creare un'armonia reciproca e divertente.",
+
+
+		"howto": "Scarica video TikTok online",
+		"wowm": "Senza filigrana",
+		"howtotext": "Scaricare i video TikTok è facile. Perché devi semplicemente copiare il collegamento del video Tiktok desiderato. Quindi SssTikTok eseguirà il resto della funzione. Tuttavia, per conoscere i dettagli completi, leggi i seguenti passaggi.",
+		
+		
+		"title_search": "Cerca",
+		"title_search_tiktok": "Video TikTok",
+		"title_copy_tiktok": "e copia il suo collegamento",
+                "search_text": "Sul tuo dispositivo Android, esplora l'applicazione TikTok, cerca il tuo video TikTok preferito, quindi riproduci il video. Successivamente seleziona il collegamento per la copia quando fai clic sul pulsante di condivisione disponibile nella parte in basso a destra della pagina del video.",
+
+
+		"link_paste": "Incolla il",
+		"linkpaste": "Collegamento",
+
+                "paste_text": "Prima di tutto, accedi al nostro sito web",
+		"paste_link": "(https://tiktokio.cam)",
+		"paste_text1": "quindi vai allo strumento SssTik TikTokio e incolla il collegamento copiato del video nella sezione di input specifica. Basta toccare il pulsante Scarica adesso.",
+
+
+		"select_format": "Seleziona il formato in",
+		"format_down": "Scarica video TikTok",
+                "formate_text": "Qui sono disponibili due scelte principali:",
+		"format_text_link": "scarica video Tiktok senza filigrana",
+		"formate_text2": "o con una filigrana. Quindi, seleziona il formato di download desiderato.",
+
+
+		
+		"feature_title": "Scarica video TikTok con SssTiktok TikTok Video Downloader",
+		"feature_text": "TikTok è una delle piattaforme di social media più popolari al mondo, con milioni di video condivisi ogni giorno. Se ti imbatti in un film, un'immagine o una musica interessante che desideri preservare, impiegando una terza parte",
+		"link_text1": "Downloader TikTok",
+
+
+		"subtitle": "Scarica facilmente video TikTok con SssTiktok",
+		"feature_title": "Scarica video TikTok con Tiktokio, il TikTok Video Downloader",
+		"feature_text": "TikTok è una delle piattaforme di social media più popolari al mondo, con milioni di video condivisi ogni giorno. Se ti imbatti in un film, un'immagine o una musica interessante che desideri preservare, impiegando una terza parte",
+		"link_text1": "Downloader TikTok",
+		"feature_text2": "è il modo più efficace per farlo.",
+		"feature_text3": "<strong>SssTiktok</strong> è un downloader di video TikTok online senza filigrana. I video TikTok possono essere salvati in risoluzione HD utilizzando i browser comuni per PC, Mac, Android e iPhone.",
+		"link_text2": "Downloader TikTok",
+
+		
+		"key_feature_title": "Caratteristiche principali di SssTiktok",
+                "key_feature_text": "Il download di SssTiktok include nuove funzionalità. Quindi, senza utilizzare estensioni o software aggiuntivi, puoi utilizzare questo strumento di download di video Tiktok gratuitamente.",
+
+
+		"site_name": "Sssiktok",
+		
+		"watermark": "Scarica video TikTok senza filigrana",
+		"remove_watermark": "Questo TikTok Downloader non ha nulla a che fare con una filigrana. Come utente di SssTik, hai la libertà di scaricare e salvare video TikTok senza l'interazione di Watermark.",
+		
+		"anonymous": "Strumento gratuito per scaricare video TikTok",
+		"anonymous_secure": "Sì, dall'inizio alla fine, questo strumento è completamente gratuito e senza pagare alcun importo puoi scaricare video TikTok.",
+		
+		
+		"easy": "Utilizza facilmente lo strumento di download SssTiktok",
+		"easy_use": "Se stai pensando a come utilizzare SssTiktok, ti ​​assicuriamo che il suo utilizzo è facile e semplice. Anche un nuovo utente può interagire con esso comodamente grazie alla sua interfaccia user-friendly.",
+		
+		
+		"flex": "Scarica musica e brani di TikTok",
+		"flexible": "SssTik Tiktok Downloader ti consente di scaricare Tiktoko Video, convertire i video scaricati da TikTok nei formati MP3 e MP4 e ascoltarne la riproduzione offline.",
+		
+		
+		"hdq": "Scarica video TikTok in alta qualità",
+		"quality": "Il compromesso sui video TikTok di bassa qualità non è accettabile quando SssTikTok è disponibile. Consente agli utenti di scaricare film e audio da TikTok nella loro qualità originale.",
+		
+		
+		"spd": "Scarica video TikTok con velocità",
+		"speed": "Utilizzando SssTikTok, potrai scaricare video TikTok ad alta velocità e in formato HD. Sentiti libero di scaricare e salvare infiniti video.",
+
+
+		"safe_secure": "Un downloader TikTok completamente sicuro:",
+		"ss_text": "SssTikTok garantisce che i dati dei suoi utenti siano al sicuro da terze parti. E, senza effettuare l'accesso e il processo di registrazione, può utilizzare questo downloader di TikTok. Inoltre, il nostro sito contiene un certificato SSL attivo e autentico.",
+
+		
+		"whydo": "Perché ho bisogno di un TikTok Downloader attivo?",
+		"whydo_text": "Beh, potrebbero esserci diverse cause perché il downloader di TikTok è uno strumento efficace e può scaricare video TikTok senza filigrana.",
+		"whydo_text1": "Inoltre, posso condividere comodamente i contenuti scaricati con familiari, amici e altri. SssTik offre di",
+		"whydo_link": "Scarica video Tiktok",
+		"whydo_text1_2": " con accesso ininterrotto ai contenuti desiderati.",
+		"whydo_text2": "Per questo, TikTok Downloader sembra essere un paradiso digitale per tutti i creatori di contenuti. Perché potranno salvare i loro video Tiktok preferiti senza ID o logo TikTok. Puoi anche condividere i contenuti scaricati su diverse piattaforme social come Instagram, YouTube Shorts, Facebook, ecc.",
+
+
+		"simple": "SssTik: downloader video TikTok semplice, gratuito e veloce",
+		"simple_text": "SssTikTok è il miglior downloader di video TikTok veloce, gratuito e semplice. Quindi, scarica video TikTok senza filigrana in qualità HD e salvali nei formati MP3 o MP4. La rimozione della filigrana SssTikTok funziona bene nei sistemi ISO (iPad/iPhone) e Android",
+
+		"procedure": "Scarica",
+		"proc_1": "Video TikTok",
+		"proc_2": "su smartphone",
+		"procedure_text": "L'intero processo per scaricare video TikTok sul tuo cellulare è semplice. Segui questi passaggi.",
+		"ph_step1": "Cerca il video TikTok desiderato, quindi scaricalo e riproducilo.",
+		"ph_step2": "Sul lato destro, tocca il pulsante di condivisione, quindi copia il collegamento del video. ",
+		"ph_step3": "Ora esplora un determinato browser tramite il tuo smartphone e passa al nostro sito web",
+		"ph_step4": "Incolla il link di download copiato nella sezione della casella di testo disponibile.",
+
+
+		"prcdr_pc": "Scarica",
+		"prcdr_1": "Video TikTok",
+		"prcdr_2": "su PC",
+		"prcdr_text": "La procedura per scaricare i video TikTok su laptop o PC è la stessa che per scaricarli su smartphone e tablet. Sostituisci quindi gli smartphone con i PC. SssTikTok è accessibile anche con diversi sistemi come MacOS, Linux e Windows.",
+		
+
+		"prcdr_ios": "Scarica",
+		"ios_1": "Video TikTok",
+		"ios_2": "su iPad o iPhone",
+		"procedure_ios_text": "Come utente iPhone, se riscontri problemi durante il download dei video TikTok, segui questi semplici passaggi.",
+		"ios_step1": "Cerca i video TikTok desiderati e ottieni i relativi collegamenti.",
+		"ios_step2": "Allora vai al nostro sito web",
+		"ios_step3": "insieme all'app Safari tramite il tuo iPad o iPhone.",
+		"ios_step4": "Quindi, nella sezione di input, incolla il collegamento copiato e tocca il pulsante Download.",
+		"ios_step5": "Ora scegli un formato tra MP3 o MP4, ora inizierà il download.",
+
+
+		"head_proscons": "Pro e contro di SssTikTok Downloader",
+		"proscons_text": "Certamente, come gli altri ",
+		"proscons_text2": "strumenti, questo strumento contiene anche contro e pro.",
+		"pros_h": "I pro di SssTiktok",
+		"pros_1": "Il suo utilizzo è semplice e sicuro da tutti i punti di vista.",
+		"pros_2": "Offre molteplici scelte di download, ad esempio download senza filigrana dei video TikTok.",
+		"pros_3": "Funziona meglio con diversi sistemi operativi e dispositivi.",
+		"pros_4": "Download rapidi anche in 3 secondi.",
+		"pros_5": "Supporto completo per il download dei video TikTok nei formati MP3 e MP4.",
+		"pros_6": "Anche la funzione di download di presentazioni e foto di TikTok.",
+		"pros_7": "Tutti i download di TikTok in qualità HD.",
+		"cons_h": "Contro SssTiktok",
+		"cons_1": "Gli annunci pubblicitari possono essere fastidiosi e disturbanti per alcuni utenti.",
+		"cons_2": "Bene, al momento la funzione di download delle storie di TikTok non è disponibile.",
+		"cons_3": "L'opzione di download dei video di YouTube non è fornita.",
+
+
+		"final": "Naturalmente, SssTikTok si propone come soluzione efficiente e affidabile per scaricare video TikTok gratuitamente. Offre download TikTok senza filigrana, download rapidi in qualità HD e senza pubblicità.",
+
+		
+		"affiliate": "Non siamo affiliati a TikTok, Douyin o Bytedance.",
+		
+
+		"rss": "Feed RSS generato da @astrojs/rss",
+		"articlegenerator": "Usa l'intelligenza artificiale per generare i post dei tuoi articoli"
+	},
+		
 	"features": {
-		"learn_more": "Scopri di più",
-		"title": "Funzionalità",
-		"subtitle": "Tutti glil strumenti di cui hai bisogno",
-		"description": "Astro è un generatore di siti statici ad alte prestazioni che si integra perfettamente con Tailwind CSS e Alpine.js. Ti permette di costruire siti web con facilità e velocità, senza sacrificare le prestazioni.",
-		"astro": "Astro è il framework web all-in-one progettato per la velocità. Preleva i tuoi contenuti da qualsiasi luogo e distribuiscili ovunque, il tutto alimentato dai tuoi componenti UI e librerie preferiti.",
-		"alpine": "Alpine è uno strumento robusto e minimale per comporre comportamenti direttamente nel tuo markup. Pensalo come jQuery per il web moderno. Inserisci un tag script e inizia.",
-		"tailwind": "Un framework CSS basato su utility pieno di classi che possono essere composte per costruire qualsiasi design, direttamente nel tuo markup.",
-		"localization": "Un'integrazione di i18next con Astro + alcuni componenti utilità per aiutarti a tradurre i tuoi siti web Astro!",
-		"light_dark_mode": "Modalità Dark basata sulle classi di Tailwind.",
-		"giscus": "Un sistema di commenti alimentato da GitHub Discussions. Lascia che i visitatori lascino commenti e reazioni sul tuo sito web tramite GitHub!",
-		"decapcms": "Gestione dei contenuti open source per il tuo flusso di lavoro Git",
-		"rss": "RSS feed generato da @astrojs/rss",
-		"articlegenerator": "Usa l'inteligenza artificiale per generare gli articoli del tuo blog"
+		"learn_more": "Ulteriori informazioni",
+		"title": "Strumento online veloce, gratuito e sicuro per scaricare video TikTok",
+		"titlepg": " - Downloader Tiktok per scaricare facilmente video Tiktok online senza filigrana, scaricare video da Tiktok, scaricare gratuitamente video Tiktok in Mp4. Il miglior strumento per scaricare video TikTok, scarica video TikTok senza soluzione di continuità e comodamente sul tuo smartphone gratuitamente.",
+                "description_title": "TikTokio: TikTok Downloader senza filigrana",
+		"description": "Certo, è vero che oggigiorno la maggior parte delle persone desidera ",
+		"descriptions": "strumenti. Ecco perché tali strumenti vengono lanciati uno per uno. Ma la loro efficienza e i risultati non sono all'altezza. Alcuni forniscono una velocità di download media, altri lenti.",
+		"description1": "Tuttavia, per gli altri strumenti di download di TikTok, le persone devono pagare. Quindi, qui non ci sono cose così devastanti, perché il nostro team di sviluppatori TikTokio non mette i nostri utenti nell'oblio. Abbiamo un nuovo downloader di TikTok gratuito e puoi scaricare i tuoi video preferiti da TikTok in formato HD ad alta velocità.",
+
+		"heading2": "TikTokio: downloader video TikTok gratuito e versatile",
+		"heading2_des1": "TikTokio è un downloader gratuito di Tiktok che aiuta a ",
+		"heading2_des1_1": "TikTokio ti consente di scaricare Tiktoko Video, convertire i video scaricati da TikTok nei formati MP3 e MP4 e ascoltarne la riproduzione offline.",
+		"heading2_des2": "Sentiti libero di utilizzare il nostro TikTokio su più dispositivi come telefoni Android, PC, laptop, tablet e desktop gratuitamente. Quindi, inizia a scaricare e salvare i video TikTok desiderati e condividili con altre persone per creare un'armonia reciproca e divertente.",
+
+
+		"howto": "Scarica video TikTok online",
+		"wowm": "Senza filigrana",
+		"howtotext": "Scaricare i video TikTok è facile. Perché devi semplicemente copiare il collegamento del video TT desiderato. Quindi TikTokio eseguirà il resto della funzione. Tuttavia, per conoscere i dettagli completi, leggi i seguenti passaggi.",
+		
+		
+		"title_search": "Cerca",
+		"title_search_tiktok": "Video TikTok",
+		"title_copy_tiktok": "e copia il suo collegamento",
+                "search_text": "Sul tuo dispositivo Android, esplora l'applicazione TikTok, cerca il tuo video TikTok preferito, quindi riproduci il video. Successivamente seleziona il collegamento per la copia quando fai clic sul pulsante di condivisione disponibile nella parte in basso a destra della pagina del video.",
+
+
+		"link_paste": "Incolla il",
+		"linkpaste": "Collegamento",
+
+                "paste_text": "Prima di tutto, accedi al nostro sito web",
+		"paste_link": "(https://tiktokio.cam)",
+		"paste_text1": "quindi vai allo strumento TikTokio e incolla il collegamento copiato del video nella sezione di input specifica. Basta toccare il pulsante Scarica ora.",
+
+
+		"select_format": "Seleziona il formato in",
+		"format_down": "Scarica video TikTok",
+                "formate_text": "Qui sono disponibili due scelte principali:",
+		"format_text_link": "scarica video Tiktok senza filigrana",
+		"formate_text2": "o con una filigrana. Quindi, seleziona il formato di download desiderato.",
+
+
+		
+		"feature_title": "Scarica video TikTok con Tiktokio, il TikTok Video Downloader",
+		"feature_text": "TikTok è una delle piattaforme di social media più popolari al mondo, con milioni di video condivisi ogni giorno. Se ti imbatti in un film, un'immagine o una musica interessante che desideri preservare, impiegando una terza parte",
+		"link_text1": "Downloader TikTok",
+
+
+		"subtitle": "Scarica facilmente video TikTok con Tiktokio",
+		"feature_title": "Scarica video TikTok con Tiktokio, il TikTok Video Downloader",
+		"feature_text": "TikTok è una delle piattaforme di social media più popolari al mondo, con milioni di video condivisi ogni giorno. Se ti imbatti in un film, un'immagine o una musica interessante che desideri preservare, impiegando una terza parte",
+		"link_text1": "Downloader TikTok",
+		"feature_text2": "è il modo più efficace per farlo.",
+		"feature_text3": "<strong>Tiktokio</strong> è un downloader di video TikTok online senza filigrana. I video TikTok possono essere salvati in risoluzione HD utilizzando i browser comuni per PC, Mac, Android e iPhone.",
+		"link_text2": "Downloader TikTok",
+
+		
+		"key_feature_title": "Caratteristiche principali di Tiktokio",
+                "key_feature_text": "Tiktokio è dotato di nuove funzionalità. Quindi, senza utilizzare estensioni o software aggiuntivi, puoi utilizzare questo strumento di download di video Tiktok gratuitamente.",
+
+
+		"name_site": "Tiktokio",
+		
+		"watermark": "Scarica video TikTok senza filigrana",
+		"remove_watermark": "Questo TikTok Downloader non ha nulla a che fare con una filigrana. Come utente di TikTokio, hai la libertà di scaricare e salvare video TT senza l'interazione di Watermark.",
+		
+		"anonymous": "Strumento gratuito per scaricare video TikTok",
+		"anonymous_secure": "Sì, dall'inizio alla fine, questo strumento è completamente gratuito e senza pagare alcun importo puoi scaricare video TikTok.",
+		
+		
+		"easy": "Usa facilmente lo strumento Tiktokio",
+		"easy_use": "Se stai pensando a come utilizzare Tiktokio, ti assicuriamo che il suo utilizzo è facile e semplice. Anche un nuovo utente può interagire con esso comodamente grazie alla sua interfaccia intuitiva.",
+		
+		
+		"flex": "Scarica musica e brani di TikTok",
+		"flexible": "TikTokio ti permette di scaricare Tiktoko Video, convertire i video scaricati da TikTok nei formati MP3 e MP4 e ascoltarne la riproduzione offline.",
+		
+		
+		"hdq": "Scarica video TikTok in alta qualità",
+		"quality": "Il compromesso sui video TikTok di bassa qualità non è accettabile quando TikTokio è disponibile. Consente agli utenti di scaricare film e audio da TikTok nella loro qualità originale.",
+		
+		
+		"spd": "Scarica video TikTok con velocità",
+		"speed": "Con TikTokio, potrai scaricare video TikTok ad alta velocità e in formato HD. Sentiti libero di scaricare e salvare infiniti video.",
+
+
+
+		"spd": "Scarica video TikTok con velocità",
+		"speed": "Con TikTokio, potrai scaricare video TikTok ad alta velocità e in formato HD. Sentiti libero di scaricare e salvare infiniti video.",
+
+
+		"safe_secure": "Un downloader TikTok completamente sicuro:",
+		"ss_text": "TikTokio garantisce che i dati dei suoi utenti siano al sicuro da terze parti. E, senza effettuare l'accesso e il processo di registrazione, può utilizzare questo downloader di TikTok. Inoltre, il nostro sito contiene un certificato SSL attivo e autentico.",
+
+		
+		"whydo": "Perché ho bisogno di un TikTok Downloader attivo?",
+		"whydo_text": "Beh, potrebbero esserci diverse cause perché il downloader di TikTok è uno strumento efficace e può scaricare video TikTok senza filigrana.",
+		"whydo_text1": "Inoltre, posso condividere comodamente i contenuti scaricati con familiari, amici e altri. Tiktokio lo offre",
+		"whydo_link": "Scarica video Tiktok",
+		"whydo_text1_2": " con accesso ininterrotto ai contenuti desiderati.",
+		"whydo_text2": "Per questo, TikTok Downloader sembra essere un paradiso digitale per tutti i creatori di contenuti. Perché potranno salvare i loro video TT preferiti senza ID o logo TikTok. Puoi anche condividere i contenuti scaricati su diverse piattaforme social come Instagram, YouTube Shorts, Facebook, ecc.",
+
+
+		"simple": "TikTokio: downloader di video TT semplice, gratuito e veloce",
+		"simple_text": "Il nostro TikTokio è il miglior downloader di video TT veloce, gratuito e semplice. Quindi, scarica video TT senza filigrana in qualità HD e salvali nei formati MP3 o MP4.",
+		"simple_text1": "la rimozione della filigrana funziona bene nei sistemi ISO (iPad/iPhone) e Android",
+		
+		"procedure": "Scarica",
+		"proc_1": "Video TikTok",
+		"proc_2": "su smartphone",
+		"procedure_text": "L'intero processo per scaricare video TT sul tuo cellulare è semplice. Segui questi passaggi.",
+		"ph_step1": "Cerca il video TikTok desiderato, quindi scaricalo e riproducilo.",
+		"ph_step2": "Sul lato destro, tocca il pulsante di condivisione, quindi copia il collegamento del video. ",
+		"ph_step3": "Ora esplora un determinato browser tramite il tuo smartphone e passa al nostro sito web",
+		"ph_step4": "Incolla il link di download copiato nella sezione della casella di testo disponibile.",
+
+
+		"prcdr_pc": "Scarica",
+		"prcdr_1": "Video TikTok",
+		"prcdr_2": "su PC",
+		"prcdr_text": "La procedura per scaricare i video TT su laptop o PC è la stessa che per scaricarli su smartphone e tablet. Sostituisci quindi gli smartphone con i PC. TikTokio è accessibile anche con diversi sistemi come MacOS, Linux e Windows.",
+		
+
+		"prcdr_ios": "Scarica",
+		"ios_1": "Video TikTok",
+		"ios_2": "su iPad o iPhone",
+		"procedure_ios_text": "Come utente iPhone, se riscontri problemi durante il download dei video TikTok, segui questi semplici passaggi.",
+		"ios_step1": "Cerca i video TikTok desiderati e ottieni i relativi collegamenti.",
+		"ios_step2": "Allora vai al nostro sito web",
+		"ios_step3": "insieme all'app Safari tramite il tuo iPad o iPhone.",
+		"ios_step4": "Quindi, nella sezione di input, incolla il collegamento copiato e tocca il pulsante Download.",
+		"ios_step5": "Ora scegli un formato tra MP3 o MP4, ora inizierà il download.",
+
+
+		"head_proscons": "Pro e contro di TikTokio Downloader",
+		"proscons_text": "Certamente, come gli altri ",
+		"proscons_text2": "strumenti, questo strumento contiene anche contro e pro.",
+		"pros_h": "I pro di Tiktokyo",
+		"pros_1": "Il suo utilizzo è semplice e sicuro da tutti i punti di vista.",
+		"pros_2": "Offre molteplici scelte di download, ad esempio download senza filigrana dei video TikTok.",
+		"pros_3": "Funziona meglio con diversi sistemi operativi e dispositivi.",
+		"pros_4": "Download rapidi anche in 3 secondi.",
+		"pros_5": "Supporto completo per il download dei video TikTok nei formati MP3 e MP4.",
+		"pros_6": "Anche la funzione di download di presentazioni e foto di TikTok.",
+		"pros_7": "Tutti i download di TikTok in qualità HD.",
+		"cons_h": "Contro di Tiktokio",
+		"cons_1": "Gli annunci pubblicitari possono essere fastidiosi e disturbanti per alcuni utenti.",
+		"cons_2": "Bene, al momento la funzione di download delle storie di TikTok non è disponibile.",
+		"cons_3": "L'opzione di download dei video di YouTube non è fornita.",
+
+
+		"title_mp3_down": "TikTokio - Downloader audio MP3 TikTok",
+		"tiktok_mp3_text1": "TikTokio è lo strumento migliore come Tiktok Downloader per salvare facilmente i tuoi video TikTok preferiti. Scarica video Tiktok online",
+		"title_mp3_downloader": "TikTok Downloader ",
+		"tiktok_mp3_text2": "in audio Mp4 e Mp3. Puoi salvare la colonna sonora del tuo video TikTok preferito su qualsiasi piattaforma inclusi laptop, tablet, PC e telefoni cellulari.",
+
+
+		"title_photo_down": "TikTokio - Downloader di presentazioni/foto TikTok",
+		"tiktok_photo_text1": "TikTok Photo downloader (TikTokio) è un'applicazione web gratuita per il salvataggio di fotografie e presentazioni TikTok caricate pubblicamente senza filigrane o loghi TikTok in alta qualità.",
+		"tiktok_photo_text2": "TikTok è facilmente accessibile su una varietà di dispositivi che eseguono vari sistemi operativi, inclusi desktop, Android, iOS, Linux e Windows, e puoi scaricare fotografie TikTok di alta qualità nella tua galleria con",
+		"title_photo_downloader": "Downloader di foto TikTok",
+
+
+		"title_story_down": "TikTokio - Downloader di storie di TikTok",
+		"tiktok_story_text1": "Sito web di download della storia di TikTok",
+		"tiktok_story_text2": "ti consente di scaricare e salvare liberamente storie intriganti da TikTok nella tua galleria o nei tuoi file. È completamente anonimo perché nessuno lo sa: tutto ciò di cui hai bisogno è un collegamento alla storia di TikTok che desideri scaricare senza filigrana.",
+		"tiktok_story_text3": "Inoltre, Tiktokio - ",
+		"tiktok_story_text4": "/saver è adatto a tutti i dispositivi. Che tu utilizzi uno smartphone, un tablet o un computer desktop, puoi accedere al nostro strumento cercando 'tiktokio' o 'tiktokio.cam' nel tuo browser.",
+		"title_story_downloader": "Downloader di TikTok Story",
+		"title_story_link": "(https://tiktokio.cam/tiktok-story-downloader)",
+		
+
+
+
+
+		"final": "Naturalmente, TikTokio si propone come soluzione efficiente e affidabile per scaricare video TikTok gratuitamente. Offre download TikTok senza filigrana, download rapidi in qualità HD e senza pubblicità.",
+
+		
+		"affiliate": "Non siamo affiliati a TikTok, Douyin o Bytedance.",
+		
+
+		"rss": "Feed RSS generato da @astrojs/rss",
+		"articlegenerator": "Usa l'intelligenza artificiale per generare i post dei tuoi articoli"
 	},
+	
 	"faq": {
 		"title": "Domande frequenti"
 	},
-	"newsletter": {
-		"title": "Sottoscriviti alla nostra newsletter",
-		"subtitle": "Ricevi le notifiche per gli ultimi aggiornamenti e novità.",
-		"input_placeholder": "Inserisci la tua email",
-		"button_text": "Sottoscriviti",
-		"privacy": "Ci importa della tua privacy. Leggi la nostra",
-		"privacy_link": "Privacy Policy."
+	"about": {
+		"about": "Chi siamo",
+		"title": "Dove",
+		"subtitle": "La creatività incontra",
+		"content": "Tiktokio è una piattaforma professionale per scaricare video Tiktok. Qui otterremo i tuoi unici contenuti interessanti da scaricare gratuitamente, che ti piaceranno moltissimo. Ci impegniamo a fornirti il ​​meglio per scaricare video Tiktok senza filigrana, con particolare attenzione all'affidabilità e al downloader di video Tiktok online.",
+		"content_footer": "Stiamo lavorando per trasformare la nostra passione per la tecnologia in un sito web online in forte espansione. Ci auguriamo che apprezzerai la nostra tecnologia tanto quanto a noi piace offrirtela.",
+		"privacy": "Abbiamo a cuore la protezione dei tuoi dati. Leggi la nostra",
+		"privacy_link": "Informativa sulla privacy."
 	},
+	
+	"privacy": {
+		"title": "Informativa sulla privacy",
+		"subtitle": "Tiktokio.cam",
+		"last_update": "Ultimo aggiornamento: 31 luglio 2024",
+		"paragraph_1": "Benvenuto su tiktokio.cam! La tua privacy è molto importante per noi. La presente Informativa sulla privacy delinea il modo in cui raccogliamo, utilizziamo e proteggiamo le tue informazioni personali quando utilizzi il nostro sito Web e i nostri servizi.",
+		"paragraph_2": "La presente Informativa sulla privacy descrive le nostre politiche e procedure sulla raccolta, l'uso e la divulgazione delle tue informazioni quando utilizzi il Servizio e ti informa sui tuoi diritti alla privacy e su come la legge ti protegge.",
+		"paragraph_3": "Utilizziamo i tuoi dati personali per fornire e migliorare il Servizio. Utilizzando il Servizio, accetti la raccolta e l'utilizzo delle informazioni in conformità con la presente Informativa sulla privacy.",
+		"h2_col": "Raccolta di informazioni e utilizzo",
+		
+		"col_text1": "Quali informazioni raccogliamo e utilizziamo",
+		"1_col_b": "Informazioni personali:",
+		"1_col": "Quando ti registri, effettui un acquisto o utilizzi i nostri servizi, potremmo raccogliere informazioni personali come il tuo nome, indirizzo email e informazioni di contatto.",
+		"2_col_b": "Dati di utilizzo:",
+		"2_col": "Raccogliamo informazioni su come accedi e utilizzi i nostri servizi, come il tuo indirizzo IP, il tipo di browser e le tendenze di utilizzo.",
+		
+		"h3_col": "Come utilizziamo le tue informazioni:",
+		"h3_col_1": "Per fornire e mantenere i nostri servizi.",
+		"h3_col_2": "Per avvisarti delle modifiche al nostro servizio.",
+		"h3_col_3": "Per offrire supporto al cliente",
+		"h3_col_4": "Per analizzare e migliorare i nostri servizi.",
+		
+		"h4_col": "Cookie e tecnologia di tracciamento",
+		"col4_text1": "Utilizziamo cookie e altre tecnologie di tracciamento per monitorare e memorizzare l'attività degli utenti sul nostro sito. Puoi impostare il tuo browser in modo che rifiuti tutti i cookie o ti avvisi quando ne viene ricevuto uno.",
+
+		"h5_col": "Sicurezza per i tuoi dati",
+		"col5_text1": "La nostra massima priorità è la protezione dei tuoi dati. Utilizziamo una serie di tecnologie e misure di sicurezza per mantenere le tue informazioni al sicuro da accesso, utilizzo o divulgazione non autorizzati.",
+
+		"h6_col": "Collaborazione con dati e responsabilità",
+		"col6_text1": "Non vendiamo né affittiamo le informazioni personali degli utenti a terzi. Tuttavia, potremmo condividere le tue informazioni con partner fidati per motivi commerciali come l'analisi dei dati o la pubblicità, in conformità con la presente Informativa sulla privacy.",
+
+
+		"h7_col": "Scambio internazionale di dati",
+		"col7_text1": "Le tue informazioni, inclusi i dati personali, potrebbero essere trasferiti e archiviati su sistemi situati al di fuori del tuo stato o paese, dove le normative sulla privacy dei dati potrebbero differire.",
+
+		"h8_col": "I tuoi diritti sulla privacy",
+		"col8_text1": "Hai il diritto di vedere, modificare o eliminare le informazioni che abbiamo su di te. Puoi anche scegliere se ricevere o meno comunicazioni di marketing da noi.",
+
+		"h9_col": "Modifiche alla presente Informativa sulla privacy",
+		"col9_text1": "Possiamo modificare periodicamente la nostra Informativa sulla privacy. Ti terremo informato di eventuali modifiche pubblicando l'Informativa sulla privacy rivista su questo sito web.",
+
+		"h10_col": "Contattaci",
+		"col10_text1": "Se hai domande sulla nostra Informativa sulla privacy, contattaci a [help@tiktokio.cam]",
+
+
+		"privacy_link": "Informativa sulla privacy."
+	},
+
+
+"termini": {
+		"title": "Termini di servizio",
+		"subtitle": "Tiktokio.cam",
+		"last_update": "Ultimo aggiornamento: 3 agosto 2024",
+		"paragraph_1": "I Termini di servizio (Termini) controllano il modo in cui utilizzi il nostro sito Web e i nostri servizi. Accedendo o utilizzando tiktokio.cam, riconosci e accetti questi Termini.",
+		"paragraph_2": "Accedendo a questo sito web assumiamo che tu accetti questi termini e condizioni. Non continuare a utilizzare Tiktokio se non accetti tutti i termini e le condizioni indicati in questa pagina.",
+		"paragraph_3": "La seguente terminologia si applica ai presenti Termini e condizioni, all'Informativa sulla privacy, all'Informativa sulla dichiarazione di non responsabilità e a tutti gli Accordi: Cliente, Tu e Tuo si riferisce a te, la persona che accede a questo sito Web e in conformità ai termini e alle condizioni della Società. "La Società", "Noi stessi", "Noi", "Nostro" e "Nostro" si riferiscono alla nostra Società. "Parte", "Parti" o "Noi" si riferiscono sia al Cliente che a noi stessi.",
+		"paragraph_4": "Tutti i termini si riferiscono all'offerta, all'accettazione e all'esame del pagamento necessario per intraprendere il processo di assistenza al Cliente nel modo più appropriato allo scopo esplicito di soddisfare le esigenze del Cliente in relazione alla fornitura dei servizi dichiarati dalla Società, in conformità e soggetto alla legge prevalente degli Stati Uniti.",
+		"paragraph_5": "Tutti Qualsiasi uso della terminologia di cui sopra o di altre parole al singolare, al plurale, in maiuscolo e/o lui/lei o loro, sono considerati intercambiabili e pertanto riferiti agli stessi.",
+
+		"h2_cok": "Cookie",
+		"cok_text": "Utilizziamo i cookie. Accedendo a Tiktokio, accetti di utilizzare i cookie in accordo con l'Informativa sulla privacy di Tiktokio.",
+		"cok_text1": "La maggior parte dei siti Web interattivi utilizza i cookie per consentirci di recuperare i dettagli dell'utente a ogni visita. I cookie vengono utilizzati dal nostro sito Web per abilitare la funzionalità di determinate aree e rendere più semplice per le persone che visitano il nostro sito Web. Anche alcuni dei nostri partner affiliati/pubblicitari possono utilizzare i cookie.",
+
+		"h2_lic": "Licenza",
+		"lic_text": "Se non diversamente specificato, Tiktokio e/o i suoi concessori di licenza possiedono i diritti di proprietà intellettuale per tutto il materiale su Tiktokio. Tutti i diritti di proprietà intellettuale sono riservati. Puoi accedervi da Tiktokio per il tuo uso personale soggetto alle restrizioni stabilite in questi termini e condizioni.",
+		"lic_ul": "Non devi:",
+		"lic_li1": "Ripubblica materiale da Tiktokio",
+		"lic_li2": "Vendi, noleggia o concedi in sublicenza materiale da Tiktokio",
+		"lic_li3": "Riproduci, duplica o copia materiale da Tiktokio",
+		"lic_li4": "Ridistribuisci i contenuti di Tiktokio",
+
+		"lic_text1": "Parti di questo sito Web offrono agli utenti l'opportunità di pubblicare e scambiare opinioni e informazioni in determinate aree del sito Web. Tiktokio non filtra, modifica, pubblica o rivede i commenti prima della loro presenza sul sito Web. I commenti non riflettono i punti di vista e le opinioni di Tiktokio, dei suoi agenti e/o affiliati.",
+		"lic_text2": "I commenti riflettono i punti di vista e le opinioni della persona che pubblica i propri punti di vista e opinioni. Nella misura consentita dalle leggi applicabili, Tiktokio non sarà responsabile per i Commenti o per qualsiasi responsabilità, danno o spesa causata e/o subita come risultato di qualsiasi utilizzo e/o pubblicazione e/o comparsa dei Commenti su questo sito web.",
+		"lic_text3": "Tiktokio si riserva il diritto di monitorare tutti i commenti e di rimuovere eventuali commenti che possono essere considerati inappropriati, offensivi o che causano una violazione dei presenti Termini e condizioni.",
+
+		"lic_ul1": "Garantisci e dichiari che:",
+		"lic_li_1": "Hai il diritto di pubblicare commenti sul nostro sito Web e disponi di tutte le licenze e i consensi necessari per farlo;",
+		"lic_li_2": "I Commenti non invadono alcun diritto di proprietà intellettuale, inclusi, senza limitazione, copyright, brevetti o marchi di terze parti;",
+		"lic_li_3": "I Commenti non contengono materiale diffamatorio, calunnioso, offensivo, indecente o altrimenti illegale che costituisca una violazione della privacy",
+		"lic_li_4": "I Commenti non verranno utilizzati per sollecitare o promuovere affari o consuetudini o presentare attività commerciali o attività illecite.",
+
+		"lic_text4": "Con la presente concedi a Tiktokio una licenza non esclusiva per utilizzare, riprodurre, modificare e autorizzare altri a utilizzare, riprodurre e modificare qualsiasi tuo commento in qualsiasi forma, formato o supporto.",
+
+
+		"h2_hyper": "Collegamento ipertestuale ai nostri contenuti",
+		"hyper_text": "Le seguenti organizzazioni possono collegarsi al nostro sito Web senza previa approvazione scritta:",
+		"hyper_ul": "Agenzie governative;",
+		"hyper_li1": "Motori di ricerca;",
+		"hyper_li2": "Organizzazioni giornalistiche;",
+		"hyper_li3": "I distributori di directory online possono collegarsi al nostro sito Web nello stesso modo in cui si collegano ai siti Web di altre aziende elencate; e",
+		"hyper_li4": "Aziende accreditate a livello di sistema, ad eccezione della sollecitazione di organizzazioni no-profit, centri commerciali di beneficenza e gruppi di raccolta fondi di beneficenza che potrebbero non avere collegamenti ipertestuali al nostro sito Web.",
+
+		"hyper_text1": "Queste organizzazioni possono collegarsi alla nostra home page, a pubblicazioni o ad altre informazioni sul sito Web purché il collegamento: (a) non sia in alcun modo ingannevole; (b) non implichi falsamente sponsorizzazione, approvazione o approvazione della parte che collega e dei suoi prodotti e/o servizi; e (c) si adatti al contesto del sito della parte che collega.",
+		"hyper_text2": "Potremmo prendere in considerazione e approvare altre richieste di collegamento dai seguenti tipi di organizzazioni:",
+
+		"hyper_ul1": "fonti di informazioni comunemente note sui consumatori e/o sulle imprese;",
+		"hyper_li_1": "siti della comunità dot.com;",
+		"hyper_li_2": "associazioni o altri gruppi che rappresentano enti di beneficenza;",
+		"hyper_li_3": "distributori di directory online;",
+		"hyper_li_4": "portali internet;",
+		"hyper_li_5": "studi contabili, legali e di consulenza; e;",
+		"hyper_li_6": "istituti scolastici e associazioni di categoria.",
+
+		"hyper_text3": "Approveremo le richieste di collegamento da queste organizzazioni se decidiamo che: (a) il collegamento non ci farà apparire sfavorevole a noi stessi o alle nostre aziende accreditate; (b) l'organizzazione non ha alcun record negativo con noi; (c) il vantaggio per noi derivante dalla visibilità del collegamento ipertestuale compensa l'assenza di Tiktokio; e (d) il collegamento è nel contesto di informazioni generali sulle risorse.",
+		"hyper_text4": "Queste organizzazioni possono collegarsi alla nostra home page purché il collegamento: (a) non sia in alcun modo ingannevole; (b) non implichi falsamente sponsorizzazione, approvazione o approvazione della parte che collega e dei suoi prodotti o servizi; e (c) si adatti al contesto del sito della parte che collega.",
+		"hyper_text5": "Se sei una delle organizzazioni elencate nel paragrafo 2 sopra e sei interessato a collegarti al nostro sito web, devi informarci inviando un'e-mail a Tiktokio. Per favore includi il tuo nome, il nome della tua organizzazione, le informazioni di contatto e l'URL del tuo sito, un elenco di eventuali URL da cui intendi collegarti al nostro sito web e un elenco di URL sul nostro sito a cui desideri collegarti. Attendi 2-3 settimane per una risposta.",
+
+		"hyper_ul_1": "Le organizzazioni approvate possono collegarsi al nostro sito Web come segue:",
+		"hyper_apli_1": "Utilizzando il nostro nome aziendale; o",
+		"hyper_apli_2": "Utilizzando il localizzatore di risorse uniforme a cui sei collegato; oppure",
+		"hyper_apli_3": "Utilizzando qualsiasi altra descrizione del nostro sito Web a cui è collegato che abbia senso nel contesto e nel formato dei contenuti sul sito della parte collegata.",
+
+		"hyper_text6": "Non sarà consentito l'uso del logo di Tiktokio o di altre opere d'arte per il collegamento in assenza di un accordo di licenza del marchio.",
+
+		"h2_iframe": "iFrame",
+		"iframe_text": "Senza previa approvazione e permesso scritto, non è possibile creare frame attorno alle nostre pagine Web che alterino in alcun modo la presentazione visiva o l'aspetto del nostro sito Web.",
+
+		"h2_liab": "Responsabilità sui contenuti",
+		"liab_text": "Non saremo ritenuti responsabili per qualsiasi contenuto che appare sul tuo sito web. Accetti di proteggerci e difenderci da tutte le rivendicazioni che sorgono sul tuo sito web. Nessun collegamento(i) dovrebbe apparire su qualsiasi sito web che possa essere interpretato come diffamatorio, osceno o criminale, o che violi, altrimenti violi o sostenga la violazione o altra violazione di diritti di terzi.",
+
+		"h2_privacy": "La tua privacy",
+		"privacy_text": "Leggi",
+		"privacy_link": "Informativa sulla privacy",
+
+		"h2_rights": "Riserva dei diritti",
+		"rights_text": "Ci riserviamo il diritto di richiedere la rimozione di tutti i collegamenti o di qualsiasi collegamento particolare al nostro sito Web. Approvate la rimozione immediata di tutti i collegamenti al nostro sito Web su richiesta. Ci riserviamo inoltre il diritto di modificare questi termini e condizioni e la relativa politica di collegamento in qualsiasi momento. Collegandosi continuamente al nostro sito Web, accetti di essere vincolato e seguire questi termini e condizioni di collegamento.",
+
+		"h2_removal": "Rimozione di collegamenti dal nostro sito Web",
+		"removal_text": "Se trovi qualche collegamento sul nostro sito Web che è offensivo per qualsiasi motivo, sei libero di contattarci e informarci in qualsiasi momento. Prenderemo in considerazione le richieste di rimozione dei collegamenti ma non siamo obbligati a farlo o a risponderti direttamente.",
+		"removal_text1": "Non garantiamo che le informazioni su questo sito web siano corrette, non garantiamo la sua completezza o accuratezza; né promettiamo di garantire che il sito web rimanga disponibile o che il materiale sul sito web sia mantenuto aggiornato.",
+
+		"h2_disclaimer": "Esonero di responsabilità",
+		"discl_text": "Nella misura massima consentita dalla legge applicabile, escludiamo tutte le dichiarazioni, garanzie e condizioni relative al nostro sito Web e all'utilizzo di questo sito Web. Niente in questo disclaimer:",
+		"discl_li1": "limita o esclude la nostra o la vostra responsabilità per morte o lesioni personali;",
+		"discl_li2": "limita o esclude la nostra o la vostra responsabilità per frode o dichiarazione fraudolenta;",
+		"discl_li3": "limitare qualsiasi nostra o vostra responsabilità in qualsiasi modo non consentito dalla legge applicabile; o",
+		"discl_li4": "esclude qualsiasi nostra o vostra responsabilità che non possa essere esclusa ai sensi della legge applicabile.",
+
+		"discl_text1": "Le limitazioni e i divieti di responsabilità stabiliti in questa Sezione e altrove in questa esclusione di responsabilità: (a) sono soggetti al paragrafo precedente; e (b) regolano tutte le responsabilità derivanti dalla esclusione di responsabilità, comprese le responsabilità derivanti da contratto, atto illecito e violazione di obblighi legali.",
+		"discl_text2": "Finché il sito Web e le informazioni e i servizi sul sito Web sono forniti gratuitamente, non saremo responsabili per eventuali perdite o danni di qualsiasi natura.",
+		
+
+		"terms_of_services": "Termini di servizio."
+	},
+
+
+
+	"contact": {
+		"about": "Chi siamo",
+		"title": "Ottieni risposte alle tue domande su Tiktokio.",
+		"get_touch": "Mettiti in contatto",
+		"content": "Se hai una domanda sul downloader di video Tiktok senza filigrana, hai bisogno di supporto o vuoi semplicemente condividere il tuo feedback, siamo tutti orecchi. Contattaci e ti risponderemo il prima possibile.",
+		"contact_link": "Informativa sulla privacy."
+	},
+
+
+
 	"blog": {
 		"prev": "Precedente",
-		"next": "Successiva"
+		"next": "Avanti"
 	}
 }
