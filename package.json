@@ -70,5 +70,8 @@
   },
   "overrides": {
     "sharp": "^0.33.3"
+  },
+  "peerDependencies": {
+    "astro": "^5.0.0"
   }
 }
