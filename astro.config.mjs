@@ -4,48 +4,24 @@ import sitemap from "@astrojs/sitemap";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import { autolinkConfig } from "./plugins/rehype-autolink-config";
 import rehypeSlug from "rehype-slug";
-import { i18n, filterSitemapByDefaultLocale } from "astro-i18n-aut/integration";
 import astroI18next from "astro-i18next";
 import alpinejs from "@astrojs/alpinejs";
 import AstroPWA from "@vite-pwa/astro";
 import icon from "astro-icon";
 import solidJs from "@astrojs/solid-js";
-import vercel from "@astrojs/vercel/serverless";
 
-const defaultLocale = "en";
-const locales = {
-  en: "en", // the `defaultLocale` value must present in `locales` keys
-  it: "it",
-  fr: "fr",
-};
+import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://ytdll.vercel.app/it",
-  trailingSlash: "always",
-  build: {
-    format: "directory",
-  },
+  site: "https://astros.zank.studio",
   vite: {
     define: {
       __DATE__: `'${new Date().toISOString()}'`
     }
   },
   output: "hybrid",
-  integrations: [tailwind(), sitemap({
-      i18n: {
-        locales,
-        defaultLocale,
-      },
-      filter: filterSitemapByDefaultLocale({ defaultLocale }),
-    }),
-    astroI18next(), 
-    alpinejs(), 
-    i18n({
-      locales,
-      defaultLocale,
-    }),
-    AstroPWA({
+  integrations: [tailwind(), sitemap(), astroI18next(), alpinejs(), AstroPWA({
     mode: "production",
     base: "/",
     scope: "/",
