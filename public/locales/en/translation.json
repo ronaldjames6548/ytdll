@@ -1,50 +1,696 @@
+
 {
-  "hero": {
-    "title": "Youtube Downloader",
-    "subtitle": "Download videos from youtube",
-    "globe_title": "Craft Stunning, High-Performance Websites with Ease and Speed",
-    "main_button_text": "Download on github",
-    "secondary_button_text": "Go to animated version"
-  },
-  "hero_animated": {
-    "secondary_button_text": "Go to base version"
-  },
-  "header": {
-    "features": "Features",
-    "pricing": "Pricing",
-    "blog": "Blog",
-    "contact": "Contacts",
-    "primary_button_text": "Download",
-    "secondary_button_text": "Login"
-  },
-  "features": {
-    "learn_more": "Learn more",
-    "title": "Features",
-    "subtitle": "All the tools you need",
-    "description": "Astro is a high-performance static site builder that seamlessly integrates with Tailwind CSS and Alpine.js. It allows you to build websites with ease and speed, without sacrificing on performance.",
-    "astro": "Astro is the all-in-one web framework designed for speed. Pull your content from anywhere and deploy everywhere, all powered by your favorite UI components and libraries.",
-    "alpine": "Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.",
-    "tailwind": "A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.",
-    "localization": "An astro integration of i18next + some utility components to help you translate your astro websites!",
-    "light_dark_mode": "Light/Dark mode based on tailwind classes",
-    "giscus": "A comments system powered by GitHub Discussions. Let visitors leave comments and reactions on your website via GitHub!",
-    "decapcms": "Open source content management for your Git workflow",
-    "rss": "RSS feed generato da @astrojs/rss",
-    "articlegenerator": "Use AI to generate your articles posts"
-  },
-  "faq": {
-    "title": "Frequently Asked Questions"
-  },
-  "newsletter": {
-    "title": "Subscribe to our newsletter",
-    "subtitle": "Get notified for all updates",
-    "input_placeholder": "Enter your email",
-    "button_text": "Subscribe",
-    "privacy": "We care about the protection of your data. Read our",
-    "privacy_link": "Privacy Policy."
-  },
-  "blog": {
-    "prev": "Prev",
-    "next": "Next"
-  }
+	"site": {
+		"title": "Tiktokio - TikTok Downloader - Download TikTok Videos Without Watermark",
+		"description": "TikTokio - Tiktok downloader to online download tiktok videos without watermark easily, Best Tiktok video downloader to download video from tiktok, free download tiktok video in Mp4.",
+		"alt": "Tiktokio - TikTok Downloader - Download TikTok Videos Without Watermark"
+
+	},
+	"hero": {
+		"title": "TikTok Video Downloader",
+		"subtitle": "Download TikTok Videos in MP3/MP4 & without Watermark",
+		"notify": "By using our service you accept our",
+		"downloader": "Video Downloader",
+		"tiktokio": "TikTokio",
+		"tiktok": "TikTok",
+		"tos": "Terms of Service",
+		"privacy": "Privacy Policy",
+		"scan": "Scanned by",
+		"norton": "Norton",
+		"safe": "Safe Web"
+
+	},
+
+	"hero_douyin": {
+		"tiktokio": "TikTokio",
+		"title": "Douyin Video Downloader",
+		"subtitle": "Download Douyin (抖音, TikTok China) Video without Watermark Free"
+
+	},
+
+	"hero_mp3": {
+		"tiktokio": "TikTokio",
+		"title": "Download TikTok MP3 Online",
+		"subtitle": "TikTok MP3 Downloader, Convert Your Favorite TikTok Videos to MP3"
+
+	},
+
+	"hero_photo": {
+		"tiktokio": "TikTokio",
+		"title": "Download TikTok MP3 Online",
+		"subtitle": "TikTok MP3 Downloader, Download TikTok mp3 for free"
+
+	},
+
+	"hero_story": {
+		"tiktokio": "TikTokio",
+		"title": "TikTok Story Downloader",
+		"subtitle": "Download Tiktok video Story - Free - No watermarks"
+
+	},
+	"hero_ssstik": {
+		"tiktokio": "SssTiktok",
+		"title": "Tiktok Downloader",
+		"subtitle": "Download TikTok video Without Watermark"
+
+	},
+	
+	"header": {
+		"title": "Tiktokio",
+		"tvd": "Tiktok Video Downloader",
+		"tmp3": "‎Download TikTok MP3",
+		"douyin": "Download Douyin Video",
+		"story": "TikTok Story Downloader",
+		"photo": "TikTok Photo Downloader",
+		"ssstik": "SssTiktok",
+		"howto": "How to"
+		
+	},
+
+
+	"douyin_features": {
+		"title": "Tiktokio for Douyin",
+		"subtitle": "Online Douyin video downloader without watermark!",
+		"text1": "For Douyin (Chinese TikTok) SnapDouyin (also known as Tiktokio Douyin) is a trusted ",
+		"text1-1": "that lets you save videos without watermarks while preserving the original content quality. The downloading procedure is rapid, finishing in a matter of seconds. ",
+		"text1_link": "Douyin video downloader",
+		"text2": "It's thought to be the greatest way to get content from Douyin using tiktokio.cam a third-party website. The purpose of Tiktokio Douyin is to help you download photos and videos from your Douyin account. We reaffirm our right to deny service to anyone using our tool in an unauthorized manner or using their materials without permission. Please read our Terms of Service in its entirety.",
+		
+		"copy": "Copy video link",
+		"copy_text": "Find the Tiktok video then click 'Share' and select 'Copy link'",
+		"paste": "Paste Link",
+		"paste_text": "Paste the link into Tiktokio's input field and click 'Download'",
+		"save": "Save Video",
+		"save_text": "Select the video format you want to download",
+		"enjoy": "Bookmark Titkio",
+		"enjoy_text": "Just hit 'Ctrl + D' to bookmark our site.",
+
+		"downloader": "Tiktokio Douyin Downloader - Download videos from Douyin without watermark",
+		"downloader_text": "How to download Douyin videos online? Using the Douyin Downloader, you may download videos from Douyin in high definition (1080p, 2k and 4k) as well as full HD and 1080p resolutions. Download and store Douyin videos in the best quality to your computer or phone for free.",
+		"downloader_text1": "Using a tool called Douyin Downloader by Tiktokio you may ",
+		"downloader_text2": "Using a tool called Douyin Downloader by Tiktokio you may",
+		"downloader_link": "download Douyin videos",
+		"downloader_text3": "for free and without a watermark or branding. Without installing any software save and download Douyin videos to your web browser.",
+		"downloader_text4": "All of the work is done on our server; all you need is a Douyin video link. supports every operating system and gadget, including Windows, Linux, Mac OS, iPhone, Android and PC.",
+
+		"howto": "How to download Douyin videos without watermark with Tiktokio",
+		"howto_li1": "Open the Douyin app on your phone or open the Douyin.com website with a browser.",
+		"howto_li2": "On Douyin, find the video you want to download. Press the Share button and then select Copy Link.",
+		"howto_li3": "Go back to Tiktokio.Cam, paste the copied Douyin link into the input box and press the Download button.",
+		"howto_li4": "Wait for our server to process and press the Download Photo or Download Video button to save the respective file to your device."
+		
+	},
+
+	"mp3_features": {
+		"title": "Tiktokio Download TikTok MP3",
+		"subtitle": "Online Tiktok Mp3 Downloader",
+		"sec_title": "Tiktokio - Tiktok Mp3",
+		"sec_title1": "TikTok MP3 Downloader - Free tool to download mp3 from TikTok",
+		"sec_text1": "You can save and download TikTok music in mp3 format with the Tiktokio utility, TikTok MP3 Downloader. Tiktokio",
+		"paste_link": "(https://tiktokio.cam)",
+		"sec_text2": "supports TikTok mp3 downloads through web browsers; no software needs to be installed.",
+		
+
+		"text1": "For Douyin (Chinese TikTok) SnapDouyin (also known as Tiktokio Douyin) is a trusted ",
+		"text1-1": "that lets you save videos without watermarks while preserving the original content quality. The downloading procedure is rapid, finishing in a matter of seconds. ",
+		"text1_link": "Douyin video downloader",
+		"text2": "It's thought to be the greatest way to get content from Douyin using tiktokio.cam a third-party website. The purpose of Tiktokio Douyin is to help you download photos and videos from your Douyin account. We reaffirm our right to deny service to anyone using our tool in an unauthorized manner or using their materials without permission. Please read our Terms of Service in its entirety.",
+		
+		"copy": "Copy video link",
+		"copy_text": "Find the Tiktok video with music then click 'Share' and select 'Copy link'",
+		"paste": "Paste Link",
+		"paste_text": "Paste the link into Tiktokio's input field and click 'Download'",
+		"save": "Save Mp3",
+		"save_text": "Select the Mp3 format you want to download",
+		"enjoy": "Bookmark Titkio",
+		"enjoy_text": "Just hit 'Ctrl + D' to bookmark our site.",
+
+		"downloader": "Tiktokio Tiktok Mp3 Downloader - Download TikTok MP3 Online",
+		"downloader_text": "How to download TikTok MP3 Online? Using the Tiktokio Mp3 Downloader, you may download Mp3 music from Tiktok. Download and store Mp3 music from Tiktok in the best quality to your computer or phone for free.",
+		"downloader_text1": "Using a tool called Douyin Downloader by Tiktokio you may ",
+		"downloader_text2": "Using a tool called Douyin Downloader by Tiktokio you may",
+		"downloader_link": "download Tiktok Mp3",
+		"downloader_text3": "for free. Without installing any software save and download Tiktok Mp3 music to your web browser.",
+		"downloader_text4": "All of the work is done on our server; all you need is a Tiktok video link with music. supports every operating system and gadget, including Windows, Linux, Mac OS, iPhone, Android and PC.",
+
+		"howto": "How to download Tiktok Mp3 with Tiktokio",
+		"howto_li1": "Open the Tiktok app on your phone or open the Tiktok.com website with a browser.",
+		"howto_li2": "On Tiktok, find the video whome you want to download music. Press the Share button and then select Copy Link.",
+		"howto_li3": "Go back to Tiktokio.Cam, paste the copied Tiktok link into the input box and press the Download button.",
+		"howto_li4": "Wait for our server to process and press the Download Mp3 or Download Tiktok Mp3 button to save the respective file to your device."
+		
+	},
+
+	"story_features": {
+		"title": "Tiktok Story Download",
+		"subtitle": "Titkio Online Tiktok Story Downloader",
+		"text1": "For Tiktok Story, Titkio (also known as Tiktokio Story Downloader) is a trusted web application ",
+		"text1-1": "that lets you save Tiktok Sotry without watermarks while preserving the original content quality. The downloading procedure is rapid, finishing in a matter of seconds. ",
+		"text1_link": "https://tiktokio.cam/tiktok-story-downloader",
+		"text2": "It's thought to be the greatest way to get content from Tiktok using tiktokio.cam a third-party website. The purpose of Tiktokio Story Downloader is to help you download Tiktok Stories of any public user account. We reaffirm our right to deny service to anyone using our tool in an unauthorized manner or using their materials without permission. Please read our Terms of Service in its entirety.",
+		
+		"copy": "Copy Story link",
+		"copy_text": "Find the Tiktok Story then click 'Share' and select 'Copy link'",
+		"paste": "Paste Link",
+		"paste_text": "Paste the link into Tiktokio's input field and click 'Download'",
+		"save": "Save Story",
+		"save_text": "Select the Story format you want to download",
+		"enjoy": "Bookmark Titkio",
+		"enjoy_text": "Just hit 'Ctrl + D' to bookmark our site.",
+
+		"downloader": "Tiktokio Story Downloader - Download Stories from Tiktok without watermark",
+		"downloader_text": "How to download Tiktok Story videos online? Using the Tiktokio Story Downloader, you may download Story from Tiktok in high definition (1080p, 2k and 4k) as well as full HD and 1080p resolutions. Download and store Tiktok Story videos in the best quality to your computer or phone for free.",
+		"downloader_text1": "Using a tool called Douyin Downloader by Tiktokio you may ",
+		"downloader_text2": "Using a tool called Douyin Downloader by Tiktokio you may",
+		"downloader_link": "download Tiktok Story video",
+		"downloader_text3": "for free and without a watermark or branding. Without installing any software save and download Tiktok story to your web browser.",
+		"downloader_text4": "All of the work is done on our server; all you need is a Tiktok Story video link. supports every operating system and gadget, including Windows, Linux, Mac OS, iPhone, Android and PC.",
+
+		"howto": "How to download Tiktok Story videos without watermark with Tiktokio",
+		"howto_li1": "Open the Tiktok app on your phone or open the Tiktok.com website with a browser.",
+		"howto_li2": "On Tiktok, find the video you want to download. Press the Share button and then select Copy Link.",
+		"howto_li3": "Go back to Tiktokio.Cam, paste the copied Tiktok link into the input box and press the Download button.",
+		"howto_li4": "Wait for our server to process and press the Download Photo or Download Video button to save the respective file to your device."
+		
+	},
+
+	"ssstik_features": {
+		"learn_more": "Learn more",
+		"title": "Ssstik TikTok Downloader - Download TikTok Video Without Watermark",
+		"titlepg": " - Tiktok downloader to online download tiktok videos without watermark easily, download video from tiktok, free download tiktok video in Mp4. Best TikTok video Downloader Tool, download TikTok videos seamlessly and comfortably on your smartphone for free.",
+                "description_title": "SssTik: TikTok Downloader without any Watermark",
+		"description": "Of course, it is true that nowadays, the majority of the people are hankering for ",
+		"descriptions": "tools. That is why such tools are launched one by one. But their efficiency and results are not up to mark. Some provide average download speed and some slow.",
+		"description1": "However, to other TikTok downloader tools, people have to pay. So, here are not such devastating things, because our SssTik developer team does not put our users in oblivion. We have a new TikTok downloader that is free and you can download your favorite videos from TikTok in HD format at fast speed.",
+
+		"heading2": "SssTikTok: Free & Versatile TikTok Video Downloader",
+		"heading2_des1": "SssTik is free Tiktok downloader helps to ",
+		"heading2_des1_1": "Ssstiktok download allows you to download Tiktoko Video, convert TikTok downloaded videos into MP3 and MP4 formats and listen to offline playback.",
+		"heading2_des2": "Feel free to use our ssstiktok on multiple devices such as Android phones, PCs, laptops, tablets and desktops for free. So, start downloading and saving your desired TikTok videos and share them with other people to create mutual entertaining harmony.",
+
+
+		"howto": "Download TikTok Videos Online",
+		"wowm": "Without Watermark",
+		"howtotext": "Downloading TikTok videos is easy. Because you merely need to copy your desired Tiktok video link. Then SssTikTok will perform the rest of the function. However, to know about the complete details, read the following steps.",
+		
+		
+		"title_search": "Search the",
+		"title_search_tiktok": "TikTok Video",
+		"title_copy_tiktok": "and Copy its Link",
+                "search_text": "On your Android device, explore the TikTok Application, search for your favorite TikTok video, and then play the video. After that select the copy link when you click the share button which is given at the bottom right side of the video page.",
+
+
+		"link_paste": "Paste the",
+		"linkpaste": "Link",
+
+                "paste_text": "First of all, access our website",
+		"paste_link": "(https://tiktokio.cam)",
+		"paste_text1": "then go to the SssTik TikTokio tool and paste the copied link of the video in the specific input section. Simply tap the Download button now.",
+
+
+		"select_format": "Select format to",
+		"format_down": "Download TikTok video",
+                "formate_text": "Here, two major choices are available:",
+		"format_text_link": "download Tiktok Video without a watermark",
+		"formate_text2": "or with a watermark. So, select your desired download format.",
+
+
+		
+		"feature_title": "Download TikTok videos with SssTiktok TikTok Video Downloader",
+		"feature_text": "TikTok is one of the world's most popular social media platforms, with millions of videos shared every day. If you come across an interesting movie, image or music that you want to preserve, employing a third party",
+		"link_text1": "TikTok downloader",
+
+
+		"subtitle": "Download TikTok Videos Easily with SssTiktok",
+		"feature_title": "Download TikTok videos with Tiktokio the TikTok Video Downloader",
+		"feature_text": "TikTok is one of the world's most popular social media platforms, with millions of videos shared every day. If you come across an interesting movie, image or music that you want to preserve, employing a third party",
+		"link_text1": "TikTok downloader",
+		"feature_text2": "is the most effective way to do it.",
+		"feature_text3": "<strong>SssTiktok</strong> is an online TikTok video downloader with no watermark. TikTok videos can be saved in HD resolution using common browsers for PC, Mac, Android and iPhone.",
+		"link_text2": "TikTok downloader",
+
+		
+		"key_feature_title": "Key Features of SssTiktok",
+                "key_feature_text": "SssTiktok download comes with new features. So, without using an extension or additional software, you can use this Tiktok video downloading tool for free.",
+
+
+		"site_name": "SssTiktok",
+		
+		"watermark": "Download TikTok Videos Without Watermark",
+		"remove_watermark": "This TikTok Downloader has nothing to do with a watermark. As a user of SssTik, have the liberty to download and save TikTok videos without the interaction of Watermark.",
+		
+		"anonymous": "Free TikTok Video Downloader Tool",
+		"anonymous_secure": "Yes, from start to end, this tool is entirely free and without paying any amount can download TikTok videos.",
+		
+		
+		"easy": "Use SssTiktok download Tool Easily",
+		"easy_use": "If you are thinking about how to use SssTiktok, then we assure you its use is easy and simple. Even a new user can interact with it comfortably due to its user-friendly interface.",
+		
+		
+		"flex": "Download TikTok Music & Song",
+		"flexible": "SssTik Tiktok Downloader allows you to download Tiktoko Video, convert TikTok downloaded videos into MP3 and MP4 formats and listen to offline playback.",
+		
+		
+		"hdq": "Download TikTok Videos in High Quality",
+		"quality": "Compromise over low-quality TikTok videos is not acceptable when SssTikTok is available. It enables users to download movies and audio from TikTok in their original quality.",
+		
+		
+		"spd": "Downloads TikTok video with Speed",
+		"speed": "Using SssTikTok, you will be able to download TikTok videos in swift speed and HD format. Feel free to download and save endless videos.",
+
+
+		"safe_secure": "A Completely Safe and Secure TikTok Downloader:",
+		"ss_text": "SssTikTok ensures its user's data is safe and secure from third parties. And, without logging in and the registration process, can use this TikTok downloader. Moreover, our site contains an active and authentic SSL certificate.",
+
+		
+		"whydo": "Why do I need an active TikTok Downloader?",
+		"whydo_text": "Well, there may be a number of causes for that Because TikTok downloader is an effective tool and can download TikTok videos without a watermark.",
+		"whydo_text1": "Furthermore, I can share downloaded content with family, friends, and others comfortably. SssTik offers to",
+		"whydo_link": "Download Tiktok Videos",
+		"whydo_text1_2": " with uninterrupted access to our desired content.",
+		"whydo_text2": "For this, TikTok Downloader appears to be a digital paradise for all content creators. Because they will be able to save their favorite Tiktok videos without TikTok ID or Logo. You also can share downloaded content on different social platforms like Instagram, YouTube Shorts, Facebook, etc.",
+
+
+		"simple": "SssTik: Simple, Free and Fast TikTok Video Downlaoder",
+		"simple_text": "SssTikTok is the best TikTok video downloader that is fast, free and simple. So, download TikTok videos without watermark in HD quality and save them in MP3 or MP4 formats. SssTikTok watermark removal operates good in ISO systems(iPads/iPhones) and Android",
+
+		"procedure": "Download",
+		"proc_1": "TikTok Videos",
+		"proc_2": "on smartphone",
+		"procedure_text": "The entire process of downloading TikTok videos on your mobile phone is simple. Follow these steps.",
+		"ph_step1": "Search your desired TikTok video, then download it and let it play.",
+		"ph_step2": "On the right side, tap on the share button, then copy the video link. ",
+		"ph_step3": "Now explore a certain browser through your smartphone and move to our website",
+		"ph_step4": "Paste the copied download link into the available text box section.",
+
+
+		"prcdr_pc": "Download",
+		"prcdr_1": "TikTok Videos",
+		"prcdr_2": "on Pcs",
+		"prcdr_text": "The procedure of downloading TikTok videos on laptops or PCs is the same as downloading to smartphones and tablets.  Therefore, replace smartphones with PCs. SssTikTok is also accessible with several systems such as MacOS, Linux and Windows.",
+		
+
+		"prcdr_ios": "Download",
+		"ios_1": "TikTok Videos",
+		"ios_2": "on iPads or iPhones",
+		"procedure_ios_text": "As an iPhone user, if you face some issues while downloading TikTok videos then follow these easy steps.",
+		"ios_step1": "Search your desired TikTok videos and get their links.",
+		"ios_step2": "Then go to our website",
+		"ios_step3": "along with the Safari app through your iPad or iPhone.",
+		"ios_step4": "So, in the input section, paste the copied link and tap on the Download button.",
+		"ios_step5": "Now, choose one format out of MP3 or MP4, now the download will start.",
+
+
+		"head_proscons": "Pros and Cons of SssTikTok Downloader",
+		"proscons_text": "Of course, like other ",
+		"proscons_text2": "tools, this tool also contains Cons and Pros.",
+		"pros_h": "Pros Of SssTiktok",
+		"pros_1": "Its use is simple and safe from all perspectives.",
+		"pros_2": "Offers multiple downloading choices like without watermark downloads of TikTok Videos.",
+		"pros_3": "Operates better with several operating systems and devices.",
+		"pros_4": "Swift downloads even within 3 seconds.",
+		"pros_5": "Complete downloading support of TikTok Videos in MP3 & MP4 formats.",
+		"pros_6": "Even the downloading facility of TikTok slideshows and photos.",
+		"pros_7": "All TikTok downloads in HD quality.",
+		"cons_h": "Cons Of SssTiktok",
+		"cons_1": "Ads can be annoying and disturbing for some users.",
+		"cons_2": "Well, currently TikTok stories downloading facility is not available.",
+		"cons_3": "YouTube video downloading option is not given.",
+
+
+		"final": "Of course, SssTikTok moves forward as the efficient and reliable solution for downloading TikTok videos for free. It offers without Watermark TikTok downloads, swift downloads in HD quality, and without ads.",
+
+		
+		"affiliate": "We are not affiliated with TikTok, Douyin or Bytedance.",
+		
+
+		"rss": "RSS feed generato da @astrojs/rss",
+		"articlegenerator": "Use AI to generate your articles posts"
+	},
+		
+	"features": {
+		"learn_more": "Learn more",
+		"title": "TikTok Video Downloader Fast, Free & Secure Online Tool",
+		"titlepg": " - Tiktok downloader to online download tiktok videos without watermark easily, download video from tiktok, free download tiktok video in Mp4. Best TikTok video Downloader Tool, download TikTok videos seamlessly and comfortably on your smartphone for free.",
+                "description_title": "TikTokio: TikTok Downloader without any Watermark",
+		"description": "Of course, it is true that nowadays, the majority of the people are hankering for ",
+		"descriptions": "tools. That is why such tools are launched one by one. But their efficiency and results are not up to mark. Some provide average download speed and some slow.",
+		"description1": "However, to other TikTok downloader tools, people have to pay. So, here are not such devastating things, because our TikTokio developer team does not put our users in oblivion. We have a new TikTok downloader that is free and you can also download it from",
+		"description2": "for your favorite videos from TikTok in HD format at fast speed.",
+	 	"scarlet": "Scarlet iOS",
+		"heading2": "TikTokio: Free & Versatile TikTok Video Downloader",
+		"heading2_des1": "TikTokio is free Tiktok downloader helps to ",
+		"heading2_des1_1": "TikTokio allows you to download Tiktoko Video, convert TikTok downloaded videos into MP3 and MP4 formats and listen to offline playback and can share on ",
+		"heading2_des2": "Feel free to use our TikTokio on multiple devices such as Android phones, PCs, laptops, tablets, and desktops for free. So, start downloading and saving your desired TikTok videos and share them with other people to create mutual entertaining harmony.",
+
+
+		"howto": "Download TikTok Videos Online",
+		"wowm": "Without Watermark",
+		"howtotext": "Downloading TikTok videos is easy. Because you merely need to copy your desired TT video link. Then TikTokio will perform the rest of the function. However, to know about the complete details, read the following steps.",
+		
+		
+		"title_search": "Search the",
+		"title_search_tiktok": "TikTok Video",
+		"title_copy_tiktok": "and Copy its Link",
+                "search_text": "On your Android device, explore the TikTok Application, search for your favorite TikTok video, and then play the video. After that select the copy link when you click the share button which is given at the bottom right side of the video page.",
+
+
+		"link_paste": "Paste the",
+		"linkpaste": "Link",
+
+                "paste_text": "First of all, access our website",
+		"paste_link": "(https://tiktokio.cam)",
+		"paste_text1": "then go to the TikTokio tool and paste the copied link of the video in the specific input section. Simply tap the Download button now.",
+
+
+		"select_format": "Select format to",
+		"format_down": "Download TikTok video",
+                "formate_text": "Here, two major choices are available:",
+		"format_text_link": "download Tiktok Video without a watermark",
+		"formate_text2": "or with a watermark. So, select your desired download format.",
+
+
+		
+		"feature_title": "Download TikTok videos with Tiktokio the TikTok Video Downloader",
+		"feature_text": "TikTok is one of the world's most popular social media platforms, with millions of videos shared every day. If you come across an interesting movie, image or music that you want to preserve, employing a third party",
+		"link_text1": "TikTok downloader",
+
+
+		"subtitle": "Download TikTok Videos Easily with Tiktokio",
+		"feature_title": "Download TikTok videos with Tiktokio the TikTok Video Downloader",
+		"feature_text": "TikTok is one of the world's most popular social media platforms, with millions of videos shared every day. If you come across an interesting movie, image or music that you want to preserve, employing a third party",
+		"link_text1": "TikTok downloader",
+		"feature_text2": "is the most effective way to do it.",
+		"feature_text3": "<strong>Tiktokio</strong> is an online TikTok video downloader with no watermark. TikTok videos can be saved in HD resolution using common browsers for PC, Mac, Android and iPhone.",
+		"link_text2": "TikTok downloader",
+
+		
+		"key_feature_title": "Key Features of Tiktokio",
+                "key_feature_text": "Tiktokio comes with new features. So, without using an extension or additional software, you can use this Tiktok video downloading tool for free.",
+
+
+		"site_name": "Tiktokio",
+		
+		"watermark": "Download TikTok Videos Without Watermark",
+		"remove_watermark": "This TikTok Downloader has nothing to do with a watermark. As a user of TikTokio, have the liberty to download and save TT videos without the interaction of Watermark. So you don't need any watermark removal app like",
+		"capcut": "Capcut mod apk",
+		"anonymous": "Free TikTok Video Downloader Tool",
+		"anonymous_secure": "Yes, from start to end, this tool is entirely free and without paying any amount can download TikTok videos.",
+		
+		
+		"easy": "Use Tiktokio Tool Easily",
+		"easy_use": "If you are thinking about how to use Tiktokio, then we assure you its use is easy and simple. Even a new user can interact with it comfortably due to its user-friendly interface.",
+		
+		
+		"flex": "Download TikTok Music & Song",
+		"flexible": "TikTokio allows you to download Tiktoko Video, convert TikTok downloaded videos into MP3 and MP4 formats and listen to offline playback.",
+		
+		
+		"hdq": "Download TikTok Videos in High Quality",
+		"quality": "Compromise over low-quality TikTok videos is not acceptable when TikTokio is available. It enables users to download movies and audio from TikTok in their original quality.",
+		
+		
+		"spd": "Downloads TikTok video with Speed",
+		"speed": "With TikTokio, you will be able to download TikTok videos in swift speed and HD format. Feel free to download and save endless videos.",
+
+
+
+		"spd": "Downloads TikTok video with Speed",
+		"speed": "With TikTokio, you will be able to download TikTok videos in swift speed and HD format. Feel free to download and save endless videos.",
+
+
+		"safe_secure": "A Completely Safe and Secure TikTok Downloader:",
+		"ss_text": "TikTokio ensures its user's data is safe and secure from third parties. And, without logging in and the registration process, can use this TikTok downloader. Moreover, our site contains an active and authentic SSL certificate.",
+
+		
+		"whydo": "Why do I need an active TikTok Downloader?",
+		"whydo_text": "Well, there may be a number of causes for that Because TikTok downloader is an effective tool and can download TikTok videos without a watermark.",
+		"whydo_text1": "Furthermore, I can share downloaded content with family, friends, and others comfortably. Tiktokio offers to",
+		"whydo_link": "Download Tiktok Videos",
+		"whydo_text1_2": " with uninterrupted access to our desired content.",
+		"whydo_text2": "For this, TikTok Downloader appears to be a digital paradise for all content creators. Because they will be able to save their favorite",
+		"whydo_text3": "Tiktok videos without TikTok ID or Logo. You also can share downloaded content from Tiktok and",
+		"whydo_text4": "on different social platforms like Instagram, YouTube Shorts, Facebook and Whatsapp.",
+		"royal_x": "royal x casino",
+		"castleapk": "castle movie apk download",
+
+		"simple": "TikTokio: Simple, Free and Fast TT Video Downlaoder",
+		"simple_text": "Our TikTokio is the best TT video downloader that is fast, free, and simple. So, download TT videos without watermark in HD quality and save them in MP3 or MP4 formats.",
+		"simple_text1": "watermark removal operates good in ISO systems(iPads/iPhones) and Android",
+		
+		"procedure": "Download",
+		"proc_1": "TikTok Videos",
+		"proc_2": "on smartphone",
+		"procedure_text": "The entire process of downloading TT videos on your mobile phone is simple. Follow these steps.",
+		"ph_step1": "Search your desired TikTok video, then download it and let it play.",
+		"ph_step2": "On the right side, tap on the share button, then copy the video link. ",
+		"ph_step3": "Now explore a certain browser through your smartphone and move to our website",
+		"ph_step4": "Paste the copied download link into the available text box section.",
+
+
+		"prcdr_pc": "Download",
+		"prcdr_1": "TikTok Videos",
+		"prcdr_2": "on Pcs",
+		"prcdr_text": "The procedure of downloading TT videos on laptops or PCs is the same as downloading to smartphones and tablets.  Therefore, replace smartphones with PCs. TikTokio is also accessible with several systems such as MacOS, Linux, and Windows.",
+		
+
+		"prcdr_ios": "Download",
+		"ios_1": "TikTok Videos",
+		"ios_2": "on iPads or iPhones",
+		"procedure_ios_text": "As an iPhone user, if you face some issues while downloading TikTok videos then follow these easy steps.",
+		"ios_step1": "Search your desired TikTok videos and get their links.",
+		"ios_step2": "Then go to our website",
+		"ios_step3": "along with the Safari app through your iPad or iPhone.",
+		"ios_step4": "So, in the input section, paste the copied link and tap on the Download button.",
+		"ios_step5": "Now, choose one format out of MP3 or MP4, now the download will start.",
+
+
+		"head_proscons": "Pros and Cons of TikTokio Downloader",
+		"proscons_text": "Of course, like other ",
+		"proscons_text2": "tools, this tool also contains Cons and Pros.",
+		"pros_h": "Pros Of Tiktokio",
+		"pros_1": "Its use is simple and safe from all perspectives.",
+		"pros_2": "Offers multiple downloading choices like without watermark downloads of TikTok Videos.",
+		"pros_3": "Operates better with several operating systems and devices.",
+		"pros_4": "Swift downloads even within 3 seconds.",
+		"pros_5": "Complete downloading support of TikTok Videos in MP3 & MP4 formats.",
+		"pros_6": "Even the downloading facility of TikTok slideshows and photos.",
+		"pros_7": "All TikTok downloads in HD quality.",
+		"cons_h": "Cons Of Tiktokio",
+		"cons_1": "Ads can be annoying and disturbing for some users.",
+		"cons_2": "Well, currently TikTok stories downloading facility is not available.",
+		"cons_3": "YouTube video downloading option is not given.",
+
+
+		"title_mp3_down": "TikTokio - TikTok MP3 Audio Downloader",
+		"tiktok_mp3_text1": "TikTokio is best tool as Tiktok Downloader for saving your favorite TikTok videos easily. Download Tiktok videos with online",
+		"title_mp3_downloader": "TikTok Downloader ",
+		"tiktok_mp3_text2": "in Mp4 and Mp3 audio. You may save the soundtrack of your favorite TikTok video on any platform including laptops, tablets, PCs and mobile phones.",
+
+
+		"title_photo_down": "TikTokio - TikTok Slideshow/Photo Downloader",
+		"tiktok_photo_text1": "TikTok Photo downloader (TikTokio) is a free web application for saving publicly uploaded TikTok photographs and slideshows without watermarks or TikTok logos in high qulaity.",
+		"tiktok_photo_text2": "TikTok is easily accessible on a variety of devices running various operating systems, including desktop, Android, iOS, Linux, and Windows, and you may download high-quality TikTok photographs to your gallery with",
+		"title_photo_downloader": "TikTok Photo downloader",
+
+
+		"title_story_down": "TikTokio - TikTok Story Downloader",
+		"tiktok_story_text1": "The TikTok story download website",
+		"tiktok_story_text2": "allows you to freely download and save intriguing stories from TikTok to your gallery or files. It's completely anonymous because no one knows - all you require is a link to the TikTok story you wish to download without the watermark. Users can also download Tiktok video of",
+		"text_jenny": "Minecraft Jenny Mod",
+		"tiktok_story_text3": "Additionally, Tiktokio - ",
+		"tiktok_story_text4": "/saver is suitable with all devices. Whether you're on a smartphone, tablet or desktop computer, you can access our tool by searching 'tiktokio' or 'tiktokio.cam' in your browser.",
+		"title_story_downloader": "TikTok Story downloader",
+		"title_story_link": "(https://tiktokio.cam/tiktok-story-downloader)",
+		
+		"text_spfy": "Similarly",
+		"site_spfy": "Sportzfy",
+		"text_sportzfy": "APK enhances your entertainment experience by providing seamless access to live sports and events.",
+
+		"text_gb": "gb WhatsApp download",
+		"text_gbplus": "WhatsApp Plus",
+		
+		"final": "Of course, TikTokio moves forward as the efficient and reliable solution for downloading TikTok videos for free. It offers without Watermark TikTok downloads, swift downloads in HD quality, and without ads.",
+
+		
+		"affiliate": "We are not affiliated with TikTok, Douyin or Bytedance.",
+		
+
+		"rss": "RSS feed generato da @astrojs/rss",
+		"articlegenerator": "Use AI to generate your articles posts"
+	},
+	
+	"faq": {
+		"title": "Frequently Asked Questions"
+	},
+	"about": {
+		"about": "About Us",
+		"title": "Where",
+		"subtitle": "Creativity Meets",
+		"content": "Tiktokio is a Professional Tiktok Video downloading Platform. Here we will get your only interesting content free to download, which you will like very much. We're dedicated to providing you the best to download tiktok videos without watermark, with a focus on dependability and Online Tiktok video Downloader.",
+		"content_footer": "We're working to turn our passion for Technology into a booming online website. We hope you enjoy our Technology as much as we enjoy offering them to you.",
+		"privacy": "We care about the protection of your data. Read our",
+		"privacy_link": "Privacy Policy."
+	},
+	
+	"privacy": {
+		"title": "Pivacy Policy",
+		"subtitle": "Tiktokio.cam",
+		"last_update": "Last updated: July 31, 2024",
+		"paragraph_1": "Welcome to tiktokio.cam! Your privacy is most important to us. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our website and services.",
+		"paragraph_2": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.",
+		"paragraph_3": "We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.",
+		"h2_col": "Collection of Information and Use",
+		
+		"col_text1": "What information we collect and use",
+		"1_col_b": "Personal Information:",
+		"1_col": "When you register, make a purchase, or use our services, we may gather personal information such as your name, email address, and contact information.",
+		"2_col_b": "Usage Data:",
+		"2_col": "We collect information about how you access and use our services, such as your IP address, browser type, and usage trends.",
+		
+		"h3_col": "How we use your information:",
+		"h3_col_1": "To deliver and maintain our services.",
+		"h3_col_2": "To alert you of changes to our service.",
+		"h3_col_3": "To offer client support",
+		"h3_col_4": "For analyzing and improving our services.",
+		
+		"h4_col": "Cookies and Tracking Technology",
+		"col4_text1": "We use cookies and other tracking technologies to monitor and store user activity on our site. You may set your browser to reject all cookies or notify you when one is received.",
+
+		"h5_col": "Security for your Data",
+		"col5_text1": "Our top priority is the protection of your data. We use a number of security technologies and safeguards to keep your information safe from unauthorized access, use or disclosure.",
+
+		"h6_col": "Collaboration with Data and Accountability",
+		"col6_text1": "We do not sell or rent user personal information to third parties. However, we may share your information with trusted partners for business reasons such as data analytics or advertising, in conformity with this Privacy Policy.",
+
+
+		"h7_col": "International Data Exchange",
+		"col7_text1": "Your information, including personal data, may be transferred to and stored on systems located outside of your state or country, where data privacy regulations may differ.",
+
+		"h8_col": "Your Privacy Rights",
+		"col8_text1": "You have the right to see, change, or delete the information we have about you. You may also choose whether or not to receive marketing communications from us.",
+
+		"h9_col": "Modifications To This Privacy Policy",
+		"col9_text1": "We may periodically amend our Privacy Policy. We will keep you informed of any changes by publishing the revised Privacy Policy on this website.",
+
+		"h10_col": "Contact Us",
+		"col10_text1": "If you have any queries about our Privacy Policy, please get in touch with us at [help@tiktokio.cam].",
+
+
+		"privacy_link": "Privacy Policy."
+	},
+
+
+"terms": {
+		"title": "Terms of Service",
+		"subtitle": "Tiktokio.cam",
+		"last_update": "Last updated: August 3, 2024",
+		"paragraph_1": "The Terms of Service (Terms) control how you use our website and services. By accessing or making use of tiktokio.cam, you acknowledge and agree to these Terms.",
+		"paragraph_2": "By accessing this website we assume you accept these terms and conditions. Do not continue to use Tiktokio if you do not agree to take all of the terms and conditions stated on this page.",
+		"paragraph_3": "The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: Client, You and Your refers to you, the person log on this website and compliant to the Company’s terms and conditions. 'The Company', 'Ourselves', 'We', 'Our' and 'Us', refers to our Company. 'Party', 'Parties', or 'Us', refers to both the Client and ourselves.",
+		"paragraph_4": "All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of United Staes.",
+		"paragraph_5": "All Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.",
+
+		"h2_cok": "Cookies",
+		"cok_text": "We employ the use of cookies. By accessing Tiktokio, you agreed to use cookies in agreement with the Tiktokio's Privacy Policy.",
+		"cok_text1": "Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.",
+
+		"h2_lic": "License",
+		"lic_text": "Unless otherwise stated, Tiktokio and/or its licensors own the intellectual property rights for all material on Tiktokio. All intellectual property rights are reserved. You may access this from Tiktokio for your own personal use subjected to restrictions set in these terms and conditions.",
+		"lic_ul": "You must not:",
+		"lic_li1": "Republish material from Tiktokio",
+		"lic_li2": "Sell, rent or sub-license material from Tiktokio",
+		"lic_li3": "Reproduce, duplicate or copy material from Tiktokio",
+		"lic_li4": "Redistribute content from Tiktokio",
+
+		"lic_text1": "Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Tiktokio does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Tiktokio,its agents and/or affiliates.",
+		"lic_text2": "Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Tiktokio shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.",
+		"lic_text3": "Tiktokio reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.",
+
+		"lic_ul1": "You warrant and represent that:",
+		"lic_li_1": "You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;",
+		"lic_li_2": "The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;",
+		"lic_li_3": "The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy",
+		"lic_li_4": "The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.",
+
+		"lic_text4": "You hereby grant Tiktokio a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.",
+
+
+		"h2_hyper": "Hyperlinking to our Content",
+		"hyper_text": "The following organizations may link to our Website without prior written approval:",
+		"hyper_ul": "Government agencies;",
+		"hyper_li1": "Search engines;",
+		"hyper_li2": "News organizations;",
+		"hyper_li3": "Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and",
+		"hyper_li4": "System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.",
+
+		"hyper_text1": "These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.",
+		"hyper_text2": "We may consider and approve other link requests from the following types of organizations:",
+
+		"hyper_ul1": "commonly-known consumer and/or business information sources;",
+		"hyper_li_1": "dot.com community sites;",
+		"hyper_li_2": "associations or other groups representing charities;",
+		"hyper_li_3": "online directory distributors;",
+		"hyper_li_4": "internet portals;",
+		"hyper_li_5": "accounting, law and consulting firms; and;",
+		"hyper_li_6": "educational institutions and trade associations.",
+
+		"hyper_text3": "We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Tiktokio; and (d) the link is in the context of general resource information.",
+		"hyper_text4": "These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.",
+		"hyper_text5": "If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Tiktokio. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.",
+
+		"hyper_ul_1": "Approved organizations may hyperlink to our Website as follows:",
+		"hyper_apli_1": "By use of our corporate name; or",
+		"hyper_apli_2": "By use of the uniform resource locator being linked to; or",
+		"hyper_apli_3": "By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.",
+
+		"hyper_text6": "No use of Tiktokio's logo or other artwork will be allowed for linking absent a trademark license agreement.",
+
+		"h2_iframe": "iFrames",
+		"iframe_text": "Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.",
+
+		"h2_liab": "Content Liability",
+		"liab_text": "We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.",
+
+		"h2_privacy": "Your Privacy",
+		"privacy_text": "Please read",
+		"privacy_link": "Privacy Policy",
+
+		"h2_rights": "Reservation of Rights",
+		"rights_text": "We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.",
+
+		"h2_removal": "Removal of links from our website",
+		"removal_text": "If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.",
+		"removal_text1": "We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.",
+
+		"h2_disclaimer": "Disclaimer",
+		"discl_text": "To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:",
+		"discl_li1": "limit or exclude our or your liability for death or personal injury;",
+		"discl_li2": "limit or exclude our or your liability for fraud or fraudulent misrepresentation;",
+		"discl_li3": "limit any of our or your liabilities in any way that is not permitted under applicable law; or",
+		"discl_li4": "exclude any of our or your liabilities that may not be excluded under applicable law.",
+
+		"discl_text1": "The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.",
+		"discl_text2": "As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.",
+		
+
+		"terms_of_services": "Terms of Services."
+	},
+
+
+
+	"contact": {
+		"about": "About Us",
+		"title": "Get Answers to Your Tiktokio Questions.",
+		"get_touch": "Get in Touch",
+		"content": "Whether you have a question about Tiktok video downloader without watermark, need support, or just want to share your feedback, we're all ears. Reach out to us and we'll get back to you as soon as possible.",
+		"contact_link": "Privacy Policy."
+	},
+
+
+
+	"blog": {
+		"prev": "Prev",
+		"next": "Next"
+	}
 }
